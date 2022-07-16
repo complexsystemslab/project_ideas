@@ -6,7 +6,7 @@ Project ideas for students
 
 ## Project ideas
 
-See PDF here
+See link here
 
 https://github.com/complexsystemslab/project_ideas/blob/main/project_ideas.md
 
