@@ -20,15 +20,15 @@ University of Cambridge, Cambridge, United Kingdom
  The surrogate models can be decision trees (like CART) trained on the input and output of a deep learning model [1].   This can use R packages like party, rpart, partykit or other packages. 
  This will lead to tools that automated the creation of surrogate interpretable models based on deep learning models in healthcare. 
 
- This project will be ideal for a student with interest in machine learning and who has coding
- experience. The work will lead to publication in a high impact journal and open source tools. This will help the  student in either PhD applications or work in industry. The student will also learn how to work in a different field and learn skills needed for inter-disciplinary research. The student will also have an opportunity to interact with experts in machine learning and healthcare. 
+  This project will be ideal for a student with interest in machine learning and who has coding
+  experience. The work will lead to publication in a high impact journal and open source tools. This will help the    student in either PhD applications or work in industry. The student will also learn how to work in a different field and learn skills needed for inter-disciplinary research. The student will also have an opportunity to interact with  experts in machine learning and healthcare. 
 
- This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
+   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
 
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
-Other project ideas can be developed according to student interests. 
+ Other project ideas can be developed according to student interests. 
 
 ## Contact
 
