@@ -8,6 +8,8 @@ Project ideas for students
 
 See PDF here
 
+https://github.com/complexsystemslab/project_ideas/blob/main/project_ideas.md
+
 Forthcoming
 
 ## Repositories to take inspiration from
