@@ -5,13 +5,14 @@
 Soumya Banerjee 
 
 University of Cambridge, Cambridge, United Kingdom 
+
 ∗ E-mail: sb2333@cam.ac.uk 
 
 ## Projects 
 
 ### Project idea 1
 
-* Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. The work will lead to publication in a good journal and open source tools. This will help the student in either PhD applications or work in industry. The student will also learn how to work in a different field and learn skills needed for inter-disciplinary research. The student may also have an opportunity to interact with other experts in machine learning and healthcare. 
+* Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. The work will lead to publication in a good journal and open source tools. This will help the student in either PhD applications or work in industry. The student will also learn how to work in a different field and learn skills needed for inter-disciplinary research. The student may also have an opportunity to interact with other experts in machine learning. 
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
