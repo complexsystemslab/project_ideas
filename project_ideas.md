@@ -1,6 +1,6 @@
 
  
-# M.Phil projects ideas 
+# M.Phil Part 3 projects ideas 
 
 Soumya Banerjee 
 
@@ -17,9 +17,10 @@ University of Cambridge, Cambridge, United Kingdom
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
+
 ### Project idea 2
 
-* For high stakes decisions we need simple and explainable/interpretable models. This need is acute in the case of healthcare and social sciences like recidivism prediction [2]. In this project, we will build simple interpretable models that are surrogates for deep learning models. We will show how to do this in the context of data for severe mental illness. 
+* For high stakes decisions we need simple and explainable/interpretable models. This need is acute in the case of healthcare and social sciences like recidivism prediction [2]. In this project, we will build simple interpretable models that are surrogates for deep learning models. 
 
   The student will look at publicly available data and synthetic data to generate surrogate models that are transparent and interpretable. The process of creating these surrogate interpretable models will be automated. This can also be partially based on published work [1]. 
 
@@ -37,7 +38,7 @@ University of Cambridge, Cambridge, United Kingdom
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
- Other project ideas can be developed according to student interests. 
+ Project ideas can be developed according to student interests. 
 
 ## Contact
 
