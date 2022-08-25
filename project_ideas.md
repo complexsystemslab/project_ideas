@@ -38,7 +38,9 @@ University of Cambridge, Cambridge, United Kingdom
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
- Project ideas can be developed according to student interests. Students will be jointly supervised with Prof. Neil Lawrence.
+ Project ideas can be developed according to student interests. 
+ 
+ Students will be jointly supervised with Prof. Neil Lawrence.
 
 ## Contact
 
