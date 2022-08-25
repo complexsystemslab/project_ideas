@@ -49,6 +49,10 @@ Please contact Soumya Banerjee at sb2333@cam.ac.uk to have an informal chat.
 You can learn more about my work here: 
 https://sites.google.com/site/neelsoumya 
 
+## Bigger Picture
+
+The main objective is to develop a suite of techniques inspired by classical AI to inform explainable AI.
+This project is part of a wider effort of unconventional approaches to AI. 
 
 ## References 
 
