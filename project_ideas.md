@@ -6,7 +6,7 @@ Soumya Banerjee
 
 University of Cambridge, Cambridge, United Kingdom 
 
-∗ E-mail: sb2333@cam.ac.uk 
+∗ E-mail: sb2333@cam.ac.uk neel.soumya@gmail.com
 
 ## Projects 
 
@@ -44,9 +44,10 @@ University of Cambridge, Cambridge, United Kingdom
 
 ## Contact
 
-Please contact Soumya Banerjee at sb2333@cam.ac.uk to have an informal chat. 
+Please contact Soumya Banerjee at sb2333@cam.ac.uk or neel.soumya@gmail.com to have an informal chat. 
 
 You can learn more about my work here: 
+
 https://sites.google.com/site/neelsoumya 
 
 ## Bigger Picture
