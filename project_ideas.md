@@ -40,6 +40,11 @@ University of Cambridge, Cambridge, United Kingdom
 
  Project ideas can be developed according to student interests. 
  
+ For other ideas see the following page:
+ 
+ https://github.com/neelsoumya/special_topics_unconventional_AI/
+ 
+ 
  Students will be jointly supervised with Prof. Neil Lawrence.
 
 ## Contact
