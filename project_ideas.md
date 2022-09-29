@@ -45,6 +45,24 @@ University of Cambridge, Cambridge, United Kingdom
  https://github.com/neelsoumya/special_topics_unconventional_AI/
  
  
+ ### Project idea 4
+ 
+ Build a machine learning algorithm or domain specific language to solve the Abstraction and Reasoning Corpus Challenge
+ 
+   https://github.com/fchollet/ARC
+
+ Abstraction and Reasoning Corpus Challenge
+
+   https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
+
+   https://github.com/alejandrodemiquel/ARC_Kaggle
+
+ Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
+ 
+ Please note this is a very challenging project.
+ 
+ 
+ 
  Students will be jointly supervised with Prof. Neil Lawrence.
 
 ## Contact
