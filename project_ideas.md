@@ -40,12 +40,14 @@ University of Cambridge, Cambridge, United Kingdom
 
  Project ideas can be developed according to student interests. 
  
+ ### Project idea 4
+ 
  For other project ideas see the following page:
  
  https://github.com/neelsoumya/special_topics_unconventional_AI/
  
  
- ### Project idea 4
+ ### Project idea 5
  
  Build a machine learning algorithm or domain specific language to solve the Abstraction and Reasoning Corpus Challenge
  
@@ -62,10 +64,13 @@ University of Cambridge, Cambridge, United Kingdom
  Please note this is a very challenging project.
  
  
+## Supervision 
  
  Students will be jointly supervised with Prof. Neil Lawrence.
 
 ## Contact
+
+Project ideas can be developed according to student interests. 
 
 Please contact Soumya Banerjee at sb2333@cam.ac.uk or neel.soumya@gmail.com to have an informal chat. 
 
