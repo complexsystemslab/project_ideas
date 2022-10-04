@@ -25,6 +25,8 @@ https://www.cst.cam.ac.uk/teaching/masters/projects
 
 https://www.cst.cam.ac.uk/teaching/part-ii/projects
 
+https://drive.google.com/file/d/1SJsApM3GjUPsBV2LVterCgeDeXcfE0KL/view
+
 
 ## Repositories to take inspiration from
 
