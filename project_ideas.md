@@ -42,7 +42,7 @@ University of Cambridge, Cambridge, United Kingdom
  
  ### Project idea 4
  
- For other project ideas see the following page:
+ For other project ideas related to explainable AI see the following page:
  
  https://github.com/neelsoumya/special_topics_unconventional_AI/
  
