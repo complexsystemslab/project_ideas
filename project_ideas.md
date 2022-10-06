@@ -48,6 +48,15 @@ University of Cambridge, Cambridge, United Kingdom
  
  Broadly this will use concepts like analogies and stories to create new explainable AI methods.
  
+ See for example 
+ 
+ https://github.com/Tijl/ANASIME
+ 
+ https://github.com/crazydonkey200/SMEPy
+
+ https://github.com/fargonauts/copycat
+ 
+ 
  ### Project idea 5
  
  Build a machine learning algorithm or domain specific language to solve the Abstraction and Reasoning Corpus Challenge
