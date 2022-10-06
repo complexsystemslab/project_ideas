@@ -46,6 +46,7 @@ University of Cambridge, Cambridge, United Kingdom
  
  https://github.com/neelsoumya/special_topics_unconventional_AI/
  
+ Broadly this will use concepts like analogies and stories to create new explainable AI methods.
  
  ### Project idea 5
  
