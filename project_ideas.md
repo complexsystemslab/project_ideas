@@ -1,6 +1,6 @@
 
  
-# M.Phil Part 3 projects ideas 
+# M.Phil Part 3 project ideas 
 
 Soumya Banerjee 
 
