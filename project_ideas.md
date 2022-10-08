@@ -12,8 +12,9 @@ University of Cambridge, Cambridge, United Kingdom
 
 ### Project idea 1
 
-* Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
+* Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
  
+ There are many ways in which the work presented in [1] can be extended (either new methods or new application areas). Please get in touch to discuss. 
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
