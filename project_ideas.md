@@ -8,6 +8,9 @@ University of Cambridge, Cambridge, United Kingdom
 
 ∗ E-mail: sb2333@cam.ac.uk neel.soumya@gmail.com
 
+Office: FC01 (first floor) in the computer science department
+
+
 ## Projects 
 
 ### Project idea 1
