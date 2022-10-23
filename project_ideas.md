@@ -77,6 +77,10 @@ Office: FC01 (first floor) in the computer science department
  
  Please note this is a very challenging project.
  
+
+### Project idea 6
+  
+Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5].  
  
 ## Supervision 
  
@@ -108,3 +112,6 @@ This project is part of a wider effort of unconventional approaches to AI.
 3. Banerjee S, tom rp Bishop (2022) dsSynthetic: Synthetic data generation for the DataSHIELD federated analysis system. BMC Res Notes 15: 230. 
 
 4. Banerjee S, Sofack GN, Papakonstantinou T, Avraam D, Burton P, et al. (2022) dsSurvival: Privacy preserving survival models for federated individual patient meta-analysis in DataSHIELD. BMC Res Notes 15: 197.
+
+5. Modelling the effects of phylogeny and body size on within-host pathogen replication and immune response, Soumya Banerjee, Alan Perelson, Melanie Moses, Journal of the Royal Society Interface 14(136), 20170479, 2017
+
