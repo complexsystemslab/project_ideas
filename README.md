@@ -34,6 +34,12 @@ https://github.com/catalina17/GE-analysis
 
 https://github.com/dmitrykazhdan/Part-II-Project
 
+## Previous MPhil theses
+
+https://www.cl.cam.ac.uk/~ad260/tucker-foltz.pdf
+
+https://www.cl.cam.ac.uk/~ad260/bouland.pdf
+
 
 ## Writing help and templates
 
