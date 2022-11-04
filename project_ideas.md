@@ -77,8 +77,12 @@ Office: FC01 (first floor) in the computer science department
  
  Please note this is a very challenging project.
  
-
+ 
 ### Project idea 6
+
+Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener (joint supervision with Peter Ochieng). 
+
+### Project idea 7
   
 Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5].  
  
