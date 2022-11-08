@@ -85,6 +85,11 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 ### Project idea 7
   
 Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5].  
+
+### Project idea 8
+
+Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
+ 
  
 ## Supervision 
  
