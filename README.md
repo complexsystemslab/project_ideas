@@ -45,6 +45,16 @@ https://www.cl.cam.ac.uk/~ad260/bouland.pdf
 
 https://www.cl.cam.ac.uk/local/typography/#thesis
 
+Overleaf template
+
+https://www.overleaf.com/latex/templates/cambridge-university-thesis-slash-dissertation-template/yjzkyxpbnctr
+
+Mendeley for reference management
+
+Writing advice
+
+https://sites.google.com/site/neelsoumya/research-resources/scientific-writing
+
 
 ## Contact
 
