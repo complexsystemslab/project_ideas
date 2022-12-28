@@ -46,6 +46,8 @@ Office: FC01 (first floor) in the computer science department
  
  ### Project idea 4
  
+ * Build a computational model of analogy making and apply it to biomedical and genomic data.
+ 
  For other project ideas related to explainable AI see the following page:
  
  https://github.com/neelsoumya/special_topics_unconventional_AI/
