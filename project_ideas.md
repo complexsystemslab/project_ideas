@@ -92,6 +92,13 @@ Building a Bayesian model and/or probabilistic programming model of infection dy
 
 Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
+### Project idea 9 
+ 
+The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
+
+https://github.com/geek-ai/MAgent
+
+
  
 ## Supervision 
  
