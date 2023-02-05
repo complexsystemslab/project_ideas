@@ -4,6 +4,8 @@
 
 Soumya Banerjee 
 
+Senior Research Fellow
+
 University of Cambridge, Cambridge, United Kingdom 
 
 ∗ E-mail: sb2333@cam.ac.uk neel.soumya@gmail.com
@@ -77,7 +79,7 @@ Office: FC01 (first floor) in the computer science department
 
  Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
  
- Please note this is a very challenging project.
+ <!--Please note this is a very challenging project.-->
  
  
 ### Project idea 6
@@ -86,7 +88,8 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
 ### Project idea 7
   
-Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5].  
+Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+
 
 ### Project idea 8
 
