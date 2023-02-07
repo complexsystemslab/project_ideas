@@ -42,9 +42,9 @@ Office: FC01 (first floor) in the computer science department
 
 ### Project idea 3
 
-* Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
+Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener (joint supervision with Peter Ochieng). 
 
- Project ideas can be developed according to student interests. 
+
  
  ### Project idea 4
  
@@ -82,13 +82,15 @@ Office: FC01 (first floor) in the computer science department
  <!--Please note this is a very challenging project.-->
  
  
-### Project idea 6
 
-Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener (joint supervision with Peter Ochieng). 
+### Project idea 6
+  
+Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+
 
 ### Project idea 7
   
-Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would involve building a qualitative process model for a physical system.   
 
 
 ### Project idea 8
@@ -102,6 +104,12 @@ The role of noise in collective artifical intelligence in building behaviour (al
 https://github.com/geek-ai/MAgent
 
 
+
+### Project idea 10
+
+* Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
+
+ Project ideas can be developed according to student interests. 
  
 ## Supervision 
  
