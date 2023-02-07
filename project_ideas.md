@@ -90,7 +90,9 @@ Building a Bayesian model and/or probabilistic programming model of infection dy
 
 ### Project idea 7
   
-Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would involve building a qualitative process model for a physical system.   
+Building a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. This would involve building a qualitative process model for a physical system.   
+
+This would be an explainable AI model for a complex model of a physical system.
 
 
 ### Project idea 8
