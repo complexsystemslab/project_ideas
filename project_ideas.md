@@ -20,6 +20,11 @@ Office: FC01 (first floor) in the computer science department
 * Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
  
  There are many ways in which the work presented in [1] can be extended (either new methods or new application areas). Please get in touch to discuss. 
+ 
+ 
+### Project idea 1B
+
+ Another project idea is to apply explainable AI approaches to genomic data. This will be a machine learning and bioinformatics project.
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
@@ -33,8 +38,7 @@ Office: FC01 (first floor) in the computer science department
  The surrogate models can be decision trees (like CART) trained on the input and output of a deep learning model [1].   This can use R packages like party, rpart, partykit or other packages. 
  This will lead to tools that automated the creation of surrogate interpretable models based on deep learning models in healthcare. 
 
-  This project will be ideal for a student with interest in machine learning and who has coding
-  experience.
+  This project will be ideal for a student with interest in machine learning and who has coding experience.
   
 
    This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
@@ -42,7 +46,10 @@ Office: FC01 (first floor) in the computer science department
 
 ### Project idea 3
 
-Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener (joint supervision with Peter Ochieng). 
+Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener.
+
+<!--(joint supervision with Peter Ochieng). 
+-->
 
 
  
