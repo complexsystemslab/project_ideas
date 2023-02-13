@@ -25,6 +25,8 @@ Office: FC01 (first floor) in the computer science department
 ### Project idea 1B
 
  Another project idea is to apply explainable AI approaches to genomic data. This will be a machine learning and bioinformatics project.
+ 
+ Tge student will develop explainable AI approaches for interpreting clusters in single-cell gene expression data.
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
