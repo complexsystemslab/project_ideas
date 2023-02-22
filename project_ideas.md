@@ -13,6 +13,9 @@ University of Cambridge, Cambridge, United Kingdom
 Office: FC01 (first floor) in the computer science department
 
 
+I work in explainable AI (xAI) and unconventional approaches to AI. I work at the intersection of complex systems and xAI: I take inspiration from complex systems to suggest new approaches to AI, and use AI to analyze complex systems.
+
+
 ## Projects 
 
 ### Project idea 1
@@ -87,6 +90,12 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
    https://github.com/alejandrodemiquel/ARC_Kaggle
 
  Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
+ 
+ This will also involve extensions of the DreamCoder paper.
+ 
+ DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning
+ 
+   https://arxiv.org/abs/2006.08381
  
  <!--Please note this is a very challenging project.-->
  
