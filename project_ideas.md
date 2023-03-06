@@ -91,12 +91,15 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
  Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
  
+ <!--
  This will also involve extensions of the DreamCoder paper.
  
  DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning
  
    https://arxiv.org/abs/2006.08381
- 
+ --> 
+
+
  <!--Please note this is a very challenging project.-->
  
  
