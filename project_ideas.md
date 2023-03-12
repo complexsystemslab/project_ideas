@@ -108,6 +108,9 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
   
 Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
 
+This would be an explainable AI model for a complex model of a physical system.
+
+
 
 ### Project idea 7
   
