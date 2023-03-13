@@ -124,9 +124,11 @@ The project would involve building a model that would generate insights from the
 
 ### Project idea 8
 
-Extend the RAmanujan machine by applying it to other data or other dynamical systems.
+Extend the Ramanujan machine by applying it to other data or other dynamical systems or using another machine learning approach.
 
 https://github.com/RamanujanMachine/RamanujanMachine
+
+This would be an artificial model of human creativity.
 
 
 ### Project idea 9
