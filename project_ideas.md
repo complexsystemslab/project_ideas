@@ -110,6 +110,7 @@ Building a Bayesian model and/or probabilistic programming model of infection dy
 
 This would be an explainable AI model for a complex model of a physical system.
 
+The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
 ### Project idea 7
@@ -118,12 +119,21 @@ Building a Bayesian model and/or probabilistic programming model of a complex sy
 
 This would be an explainable AI model for a complex model of a physical system.
 
+The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
+
 
 ### Project idea 8
 
+Extend the RAmanujan machine by applying it to other data or other dynamical systems.
+
+https://github.com/RamanujanMachine/RamanujanMachine
+
+
+### Project idea 9
+
 Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
-### Project idea 9 
+### Project idea 10 
  
 The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
@@ -131,7 +141,7 @@ https://github.com/geek-ai/MAgent
 
 
 
-### Project idea 10
+### Project idea 11
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
