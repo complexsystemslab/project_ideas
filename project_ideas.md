@@ -89,7 +89,7 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
    https://github.com/alejandrodemiquel/ARC_Kaggle
 
- Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
+ Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata.
  
  <!--
  This will also involve extensions of the DreamCoder paper.
@@ -106,7 +106,20 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
 ### Project idea 6
   
-Building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+This is a project on automatically discovering scientific laws (like Kepler's Law) from data.  
+This would involve building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+
+This would be an explainable AI model for a complex model of a physical system.
+
+The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
+
+
+### Project idea 6B
+  
+This is a project on automatically discovering scientific laws (like Kepler's Law) from data.    
+Building a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
+
+This would involve building a qualitative process model for a physical system.   
 
 This would be an explainable AI model for a complex model of a physical system.
 
@@ -114,15 +127,6 @@ The project would involve building a model that would generate insights from the
 
 
 ### Project idea 7
-  
-Building a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. This would involve building a qualitative process model for a physical system.   
-
-This would be an explainable AI model for a complex model of a physical system.
-
-The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
-
-
-### Project idea 8
 
 Extend the Ramanujan machine by applying it to other data or other dynamical systems or using another machine learning approach.
 
@@ -131,23 +135,24 @@ https://github.com/RamanujanMachine/RamanujanMachine
 This would be an artificial model of human creativity.
 
 
-### Project idea 9
+### Project idea 8
 
 Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
-### Project idea 10 
+ 
+### Project idea 9
  
 The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
 https://github.com/geek-ai/MAgent
 
 
-
-### Project idea 11
+### Project idea 10
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
  Project ideas can be developed according to student interests. 
+ 
  
 ## Supervision 
  
