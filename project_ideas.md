@@ -126,28 +126,30 @@ This would be an explainable AI model for a complex model of a physical system.
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
-### Project idea 7
+### Project idea 6C
 
-Extend the Ramanujan machine by applying it to other data or other dynamical systems or using another machine learning approach.
+This is a project on automatically discovering scientific laws or mathematical equations from data.    
+
+This would involve extending the Ramanujan machine by applying it to other data or other dynamical systems or using another machine learning approach.
 
 https://github.com/RamanujanMachine/RamanujanMachine
 
 This would be an artificial model of human creativity.
 
 
-### Project idea 8
+### Project idea 7
 
 Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
  
-### Project idea 9
+### Project idea 8
  
 The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
 https://github.com/geek-ai/MAgent
 
 
-### Project idea 10
+### Project idea 9
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
