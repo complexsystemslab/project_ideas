@@ -117,7 +117,7 @@ The project would involve building a model that would generate insights from the
 ### Project idea 6B
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) from data.    
-Building a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
+Once can build a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
 
 This would involve building a qualitative process model for a physical system.   
 
