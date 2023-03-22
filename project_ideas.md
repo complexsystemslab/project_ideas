@@ -136,6 +136,14 @@ https://github.com/RamanujanMachine/RamanujanMachine
 
 This would be an artificial model of human creativity.
 
+### Project idea 6D
+
+This is a project on automatically discovering scientific laws or mathematical equations from data.    
+
+This would involve applying symbolic regression approaches like PySR (python) or gramEvol (R) or AI Feynman or the Ramanujan machine.
+
+This would be an artificial model of human creativity.
+
 
 ### Project idea 7
 
