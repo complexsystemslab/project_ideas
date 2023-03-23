@@ -106,8 +106,9 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
 ### Project idea 6
   
-This is a project on automatically discovering scientific laws (like Kepler's Law) from data.  
-This would involve building a Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
+
+This may involve building a model or Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
 
 This would be an explainable AI model for a complex model of a physical system.
 
@@ -116,8 +117,9 @@ The project would involve building a model that would generate insights from the
 
 ### Project idea 6B
   
-This is a project on automatically discovering scientific laws (like Kepler's Law) from data.    
-Once can build a Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
+This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
+
+Once can build a model or Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
 
 This would involve building a qualitative process model for a physical system.   
 
