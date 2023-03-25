@@ -143,17 +143,15 @@ This would involve extending the Ramanujan machine by applying it to other data 
 
 https://github.com/RamanujanMachine/RamanujanMachine
 
-Other ideas including extending AI Feynman 2.0 or BACON.3
+Other ideas including extending AI Feynman 2.0 
+
+https://github.com/SJ001/AI-Feynman
+
+or BACON.3
 
 https://github.com/jantzen/BACON
 
-This would be an artificial model of human creativity.
-
-### Project idea 6D
-
-This is a project on automatically discovering scientific laws or mathematical equations from data.    
-
-This would involve applying symbolic regression approaches like PySR (python) or gramEvol (R) or AI Feynman or the Ramanujan machine.
+One can also apply symbolic regression approaches like PySR (python) or gramEvol (R)
 
 This would be an artificial model of human creativity.
 
