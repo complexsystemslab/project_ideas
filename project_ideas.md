@@ -104,22 +104,29 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
  
  
 
-### Project idea 6
+### Project idea 6 (Automated Scientific Discovery)
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
 
 This may involve building a model or Bayesian model and/or probabilistic programming model of infection dynamics (like a SIR model) or an intra-cellular regulatory network [5]. This would apply a probabilistic programming model to infection data from different sources.  
+
+Other models include phsyics simulators like pymunk:
+
+http://www.pymunk.org/en/latest/examples.html#planet-py
+
+You would simulate physics based simulations (like pymunk) or other models (like the SIR model above) and develop a machine learning approach to automatically generate insights from this model.
 
 This would be an explainable AI model for a complex model of a physical system.
 
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
+
 ### Project idea 6B
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
 
-Once can build a model or Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
+One can build a model or Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
 
 This would involve building a qualitative process model for a physical system.   
 
@@ -135,6 +142,10 @@ This is a project on automatically discovering scientific laws or mathematical e
 This would involve extending the Ramanujan machine by applying it to other data or other dynamical systems or using another machine learning approach.
 
 https://github.com/RamanujanMachine/RamanujanMachine
+
+Other ideas including extending AI Feynman 2.0 or BACON.3
+
+https://github.com/jantzen/BACON
 
 This would be an artificial model of human creativity.
 
