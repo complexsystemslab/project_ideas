@@ -124,7 +124,7 @@ The project would involve building a model that would generate insights from the
 
 ### Project idea 6B
   
-This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
+This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  This will enable us to automatically discover conservation laws from data.
 
 One can build a model or Bayesian model and/or probabilistic programming model of a complex systems model like infection dynamics (SIR model) or an intra-cellular regulatory network [5]. 
 
