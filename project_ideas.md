@@ -170,6 +170,13 @@ https://github.com/geek-ai/MAgent
 
 ### Project idea 9
 
+Extending the neural cellular automata
+
+https://distill.pub/2020/growing-ca/#experiment-2
+
+
+### Project idea 10
+
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
  Project ideas can be developed according to student interests. 
