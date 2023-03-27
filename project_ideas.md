@@ -168,11 +168,15 @@ The role of noise in collective artifical intelligence in building behaviour (al
 https://github.com/geek-ai/MAgent
 
 
-### Project idea 9
+### Project idea 9 (Explainable neural cellular automata)
 
 Extending the neural cellular automata
 
 https://distill.pub/2020/growing-ca/#experiment-2
+
+and make it more interpretable and explainable.
+
+For example, you can apply it to data from the Game of Life and infer the rules.
 
 
 ### Project idea 10
