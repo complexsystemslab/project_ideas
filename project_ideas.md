@@ -169,6 +169,11 @@ The role of noise in collective artifical intelligence in building behaviour (al
 
 https://github.com/geek-ai/MAgent
 
+We can also use the EvoJax framework
+
+https://github.com/google/evojax/blob/main/examples/notebooks/EncirclingAgents.ipynb
+
+
 
 ### Project idea 9 (Explainable neural cellular automata)
 
