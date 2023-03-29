@@ -153,7 +153,7 @@ https://github.com/jantzen/BACON
 
 One can also apply symbolic regression approaches like PySR (python) or gramEvol (R).
 
-<!-- one can also apply Bayesian symbolic regression. This would be a joint project with Challenger Mishra -->
+<!-- one can also apply Bayesian symbolic regression. This can be applied to discover trigonometric identities. This would be a joint project with Challenger Mishra -->
 
 This would be an artificial model of human creativity.
 
