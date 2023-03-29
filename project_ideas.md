@@ -151,7 +151,9 @@ or BACON.3
 
 https://github.com/jantzen/BACON
 
-One can also apply symbolic regression approaches like PySR (python) or gramEvol (R)
+One can also apply symbolic regression approaches like PySR (python) or gramEvol (R).
+
+<!-- one can also apply Bayesian symbolic regression. This would be a joint project with Challenger Mishra -->
 
 This would be an artificial model of human creativity.
 
@@ -181,7 +183,7 @@ For example, you can apply it to data from the Game of Life and infer the rules.
 https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
 
 We can also apply it to biological data from cell biology.
-<!--This would be similar to wave propagation in B-Z systems -->
+<!--This would be similar to wave propagation in B-Z systems. We can also apply it to data from the B-Z system. -->
 
 
 ### Project idea 10
