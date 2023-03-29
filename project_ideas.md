@@ -178,6 +178,11 @@ and make it more interpretable and explainable.
 
 For example, you can apply it to data from the Game of Life and infer the rules.
 
+https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
+
+We can also apply it to biological data from cell biology.
+<!--This would be similar to wave propagation in B-Z systems -->
+
 
 ### Project idea 10
 
