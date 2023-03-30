@@ -187,6 +187,8 @@ For example, you can apply it to data from the Game of Life and infer the rules.
 
 https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
 
+https://github.com/tomgrek/gameoflife
+
 We can also apply it to biological data from cell biology.
 <!-- morphology or wave propagation in the Rho GTPase system -->
 <!--This would be similar to wave propagation in B-Z systems. We can also apply it to data from the B-Z system. -->
