@@ -160,7 +160,7 @@ This would be an artificial model of human creativity.
 
 ### Project idea 7
 
-Dynamics of learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
+Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
  
 ### Project idea 8
