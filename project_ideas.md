@@ -155,7 +155,18 @@ One can also apply symbolic regression approaches like PySR (python) or gramEvol
 
 <!-- one can also apply Bayesian symbolic regression. This can be applied to discover trigonometric identities. This would be a joint project with Challenger Mishra -->
 
-Other approaches include Bayesian symbolic regression or seq2seq approaches to symbolic regression.
+Other approaches include Bayesian symbolic regression 
+
+https://arxiv.org/abs/1910.08892
+
+https://github.com/ying531/MCMC-SymReg
+
+
+or seq2seq approaches to symbolic regression
+
+https://openreview.net/pdf?id=W7jCKuyPn1
+
+https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales
 
 This would be an artificial model of human creativity.
 
