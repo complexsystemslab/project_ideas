@@ -18,7 +18,7 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 ## Projects 
 
-### Project idea 1
+### Project idea 1 (Explainable AI)
 
 * Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
  
@@ -171,12 +171,12 @@ https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales
 This would be an artificial model of human creativity.
 
 
-### Project idea 7
+### Project idea 7 (Collective intelligence in AI)
 
 Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
  
-### Project idea 8
+### Project idea 7B
  
 The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
@@ -194,7 +194,7 @@ https://smartlabai.medium.com/world-models-a-reinforcement-learning-story-cdcc86
 
 
 
-### Project idea 9 (Explainable neural cellular automata)
+### Project idea 8 (Explainable neural cellular automata)
 
 Extending the neural cellular automata
 
@@ -215,7 +215,7 @@ We can also apply it to biological data from cell biology.
 <!-- we can also apply it to data from computational fluid dynamics -->
 
 
-### Project idea 10
+### Project idea 9
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
 
