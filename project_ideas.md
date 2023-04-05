@@ -186,6 +186,12 @@ We can also use the EvoJax framework
 
 https://github.com/google/evojax/blob/main/examples/notebooks/EncirclingAgents.ipynb
 
+We can also extend MAgent using dream mechanisms in World Models
+
+https://worldmodels.github.io/
+
+https://smartlabai.medium.com/world-models-a-reinforcement-learning-story-cdcc86093c5
+
 
 
 ### Project idea 9 (Explainable neural cellular automata)
