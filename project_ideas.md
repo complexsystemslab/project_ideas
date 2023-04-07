@@ -170,6 +170,10 @@ https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales
 
 This would be an artificial model of human creativity.
 
+Other ideas include discovering ordinary differential equations from data
+
+https://arxiv.org/abs/2211.02830#
+
 
 ### Project idea 7 (Collective intelligence in AI)
 
