@@ -155,6 +155,8 @@ One can also apply symbolic regression approaches like PySR (python) or gramEvol
 
 <!-- one can also apply Bayesian symbolic regression. This can be applied to discover trigonometric identities. This would be a joint project with Challenger Mishra -->
 
+<!-- data can be used from the AI feynman database on Max tegmark's website -->
+
 Other approaches include Bayesian symbolic regression 
 
 https://arxiv.org/abs/1910.08892
