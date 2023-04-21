@@ -230,7 +230,7 @@ We can also apply it to biological data from cell biology.
  
 ## Supervision 
  
- Students will be jointly supervised with Prof. Neil Lawrence.
+ Students will be jointly supervised with Prof. Neil Lawrence and Prof. Pietro Lio.
 
 ## Contact
 
