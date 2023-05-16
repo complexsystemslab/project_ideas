@@ -220,6 +220,12 @@ We can also apply it to biological data from cell biology.
 
 <!-- we can also apply it to data from computational fluid dynamics -->
 
+Another idea is to apply this to simulations from computational fluid dynamics using the software below:
+
+https://github.com/md861/HypFEM
+
+This would be jointly with Mayank Drolia.
+
 
 ### Project idea 9
 
