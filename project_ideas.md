@@ -229,7 +229,7 @@ This would be jointly with Mayank Drolia.
 
 ### Project idea 9
 
-* Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift, etc. 
+* Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
 
  Project ideas can be developed according to student interests. 
  
@@ -266,4 +266,8 @@ This project is part of a wider effort of unconventional approaches to AI.
 4. Banerjee S, Sofack GN, Papakonstantinou T, Avraam D, Burton P, et al. (2022) dsSurvival: Privacy preserving survival models for federated individual patient meta-analysis in DataSHIELD. BMC Res Notes 15: 197.
 
 5. Modelling the effects of phylogeny and body size on within-host pathogen replication and immune response, Soumya Banerjee, Alan Perelson, Melanie Moses, Journal of the Royal Society Interface 14(136), 20170479, 2017
+
+6. https://web.archive.org/web/20230606205118/https://www.nannyml.com/blog/when-data-drift-does-not-affect-performance-machine-learning-models, URL accessed June 2023
+
+
 
