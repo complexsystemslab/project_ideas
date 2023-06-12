@@ -242,7 +242,7 @@ This would be jointly with Mayank Drolia.
 
 Project ideas can be developed according to student interests. 
 
-Please contact Soumya Banerjee at sb2333@cam.ac.uk or neel.soumya@gmail.com to have an informal chat. 
+Please contact Soumya Banerjee at sb2333@cam.ac.uk or neel.soumya@gmail.com to have an informal chat. Please also send a copy of your CV.
 
 Office: FC01 (first floor) in the computer science department
 
