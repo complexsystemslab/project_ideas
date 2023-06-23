@@ -56,9 +56,23 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 <!--(joint supervision with Peter Ochieng). 
 -->
 
+### Project idea 4: Explainable privacy preserving machine learning and federated learning
+
+Develop explainable machine learning models that are also privacy preserving. This can be done in a federated fashion that will help preserve privacy. 
+
+Model explanations will be extracted from machine learning models. However this can lead to leakage of private data. Hence one approach is to add noise to model weights (using differential privacy techniques). This will lead to explainable models that are also privacy preserving.
+
+This project is a collaboration with Dr. Abhirup Ghosh.
+
+### Project idea 5: Explainable AI models applied to time series data
+
+This project will involve developing explainable AI models for time series data. The time series data will come from ECG data and data from activity sensors.
+
+This project is a collaboration with Dr. Abhirup Ghosh.
+
 
  
- ### Project idea 4
+ ### Project idea 6
  
  * Build a computational model of analogy making and apply it to biomedical and genomic data.
  
@@ -77,7 +91,7 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
  https://github.com/fargonauts/copycat
  
  
- ### Project idea 5
+ ### Project idea 7
  
  Build a machine learning algorithm or domain specific language to solve the Abstraction and Reasoning Corpus Challenge
  
@@ -104,7 +118,7 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
  
  
 
-### Project idea 6 (Automated Scientific Discovery)
+### Project idea 8 (Automated Scientific Discovery)
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
 
@@ -122,7 +136,7 @@ The project would involve building a model that would generate insights from the
 
 
 
-### Project idea 6B
+### Project idea 8B
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  This will enable us to automatically discover conservation laws from data.
 
@@ -135,7 +149,7 @@ This would be an explainable AI model for a complex model of a physical system.
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
-### Project idea 6C
+### Project idea 8C
 
 This is a project on automatically discovering scientific laws or mathematical equations from data.    
 
@@ -177,12 +191,12 @@ Other ideas include discovering ordinary differential equations from data
 https://arxiv.org/abs/2211.02830#
 
 
-### Project idea 7 (Collective intelligence in AI)
+### Project idea 9 (Collective intelligence in AI)
 
 Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
  
  
-### Project idea 7B
+### Project idea 9B
  
 The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
@@ -200,7 +214,7 @@ https://smartlabai.medium.com/world-models-a-reinforcement-learning-story-cdcc86
 
 
 
-### Project idea 8 (Explainable neural cellular automata)
+### Project idea 10 (Explainable neural cellular automata)
 
 Extending the neural cellular automata
 
@@ -227,7 +241,7 @@ https://github.com/md861/HypFEM
 This would be jointly with Mayank Drolia.
 
 
-### Project idea 9
+### Project idea 11
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
 
