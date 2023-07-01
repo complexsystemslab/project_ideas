@@ -241,7 +241,12 @@ https://github.com/md861/HypFEM
 This would be jointly with Mayank Drolia.
 
 
-### Project idea 11
+### Project idea 11: Biologically inspired machine learning applied to cyber security
+
+This project will involve developing biologically inspired machine learning techniques, like negative selection algorithms [7]. Negative selection algorithms are inspired by how the immune system is trained to detect pathogens. This project will involve developing a biologically inspired machine learning algorithm and applying it to cyber security. An example application would be detecting outliers in network traffic.
+
+
+### Project idea 12
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
 
@@ -282,6 +287,8 @@ This project is part of a wider effort of unconventional approaches to AI.
 5. Modelling the effects of phylogeny and body size on within-host pathogen replication and immune response, Soumya Banerjee, Alan Perelson, Melanie Moses, Journal of the Royal Society Interface 14(136), 20170479, 2017
 
 6. https://web.archive.org/web/20230606205118/https://www.nannyml.com/blog/when-data-drift-does-not-affect-performance-machine-learning-models, URL accessed June 2023
+
+7. Influence of correlated antigen presentation on T cell negative selection in the thymus, Soumya Banerjee, SJ Chapman, Journal of the Royal Society Interface, 15(148), 20180311, 2018
 
 
 
