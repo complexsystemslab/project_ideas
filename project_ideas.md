@@ -250,7 +250,10 @@ This project will involve developing biologically inspired machine learning tech
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
 
- Project ideas can be developed according to student interests. 
+
+### Other ideas
+
+ Project ideas can be developed according to student interests. If you have other project ideas you would like to discuss, please come speak with me.
  
  
 ## Supervision 
