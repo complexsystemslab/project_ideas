@@ -246,9 +246,37 @@ This would be jointly with Mayank Drolia.
 This project will involve developing biologically inspired machine learning techniques, like negative selection algorithms [7]. Negative selection algorithms are inspired by how the immune system is trained to detect pathogens. This project will involve developing a biologically inspired machine learning algorithm and applying it to cyber security. An example application would be detecting outliers in network traffic.
 
 
-### Project idea 12
+### Project idea 12: AI applied to cyber security
+
+This project will develop AI tools applied to cyber security. 
+
+Ideas include developing and improving on AI based methods for password guessing. See PassGAN: A Deep Learning Approach for Password Guessing
+
+https://arxiv.org/pdf/1709.00440.pdf
+
+<!-- talk on AI applied to cyber security
+
+https://www.youtube.com/watch?v=oBdB61A8Yt8
+
+-->
+
+Other ideas include extending AI based approaches to generate better phishing URLs. For example, DeepPhish: Simulating Malicious AI
+
+https://albahnsen.files.wordpress.com/2018/05/deepphish-simulating-malicious-ai_submitted.pdf
+
+Other ideas include designing better outlier detection algorithms in network traffic data. For example, one can use ideas from rough sets to design better outlier detection strategies:
+
+Outlier Detection Using Rough Sets
+
+https://link.springer.com/chapter/10.1007/978-3-030-05127-3_7
+
+We can also use autoencoders for detecting outliers in network traffic data.
+
+
+### Project idea 13
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
+
 
 
 ### Other ideas
