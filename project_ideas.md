@@ -56,11 +56,13 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 <!--(joint supervision with Peter Ochieng). 
 -->
 
-### Project idea 4: Explainable privacy preserving machine learning and federated learning
+### Project idea 4: Explainable privacy preserving machine learning
 
-Develop explainable machine learning models that are also privacy preserving. This can be done in a federated fashion that will help preserve privacy. 
+Develop explainable machine learning models that are also privacy preserving. 
 
 Model explanations will be extracted from machine learning models. However this can lead to leakage of private data. Hence one approach is to add noise to model weights (using differential privacy techniques). This will lead to explainable models that are also privacy preserving.
+
+This can also be done in a federated fashion that will help preserve privacy. 
 
 This project is a collaboration with Dr. Abhirup Ghosh.
 
