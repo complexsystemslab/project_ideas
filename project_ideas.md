@@ -274,6 +274,10 @@ https://link.springer.com/chapter/10.1007/978-3-030-05127-3_7
 
 We can also use autoencoders for detecting outliers in network traffic data.
 
+Other ideas include using deep autoencoders for detecting malicious source code
+
+https://doi.org/10.1016/j.patter.2023.100773
+
 
 ### Project idea 13
 
