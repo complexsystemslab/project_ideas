@@ -56,7 +56,12 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 <!--(joint supervision with Peter Ochieng). 
 -->
 
-### Project idea 4: Explainable privacy preserving machine learning
+### Project 4: Tradeoffs between explainabilty and privacy
+
+Develop explainable machine learning models that explain themselves but do so without leaking personal data. For example, class-contrastive reasoning techniques [1] can be used to generate explanations. But they can inadvertently leak personal data. This project will explore the tradeoff between explainability and privacy (and potentially bias). This will lead to models that balance explainability, privacy and bias.
+
+
+### Project idea 4B: Explainable privacy preserving machine learning
 
 Develop explainable machine learning models that are also privacy preserving. 
 
