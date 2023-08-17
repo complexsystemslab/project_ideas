@@ -34,6 +34,16 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
 
+### Project idea 1C: explainable AI applied to biology/computational biology
+
+Cells express receptors on their surface. These receptors are expressed based on genes.
+These receptors bind to rceptors on other cells.
+
+This project will use publicly available genomic data to predict what receptors will be expressed on the surface of a cell.
+
+
+
+
 ### Project idea 2
 
 * For high stakes decisions we need simple and explainable/interpretable models. This need is acute in the case of healthcare and social sciences like recidivism prediction [2]. In this project, we will build simple interpretable models that are surrogates for deep learning models. 
@@ -219,6 +229,14 @@ https://worldmodels.github.io/
 
 https://smartlabai.medium.com/world-models-a-reinforcement-learning-story-cdcc86093c5
 
+
+### Project idea 9C (Modelling complex systems with generative agents)
+
+This project will involve modelling complex systems (like an epidemic spread) with generative agents. For example, generative agents can be coupled to agent based models. This can be used to simulate epidemics.
+
+https://arxiv.org/abs/2307.04986
+
+https://github.com/bear96/GABM-Epidemic
 
 
 ### Project idea 10 (Explainable neural cellular automata)
