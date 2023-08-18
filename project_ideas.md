@@ -238,6 +238,8 @@ https://arxiv.org/abs/2307.04986
 
 https://github.com/bear96/GABM-Epidemic
 
+This can also be combined with neural automata (see projects below)
+
 
 ### Project idea 10 (Explainable neural cellular automata)
 
@@ -272,6 +274,14 @@ This would be jointly with Mayank Drolia.
 Use neural cellular automate for self-organized control of complex systems
 
 https://arxiv.org/abs/2106.15240
+
+We can use this framework to, for example, model and control epidemics. 
+
+Also see projects above on generative agents.
+
+https://arxiv.org/abs/2307.04986
+
+https://github.com/bear96/GABM-Epidemic
 
 
 
