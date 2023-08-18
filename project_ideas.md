@@ -266,6 +266,15 @@ https://github.com/md861/HypFEM
 This would be jointly with Mayank Drolia.
 
 
+### Project idea 10B (Neural cellular automata for control of complex systems)
+
+
+Use neural cellular automate for self-organized control of complex systems
+
+https://arxiv.org/abs/2106.15240
+
+
+
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
 
 This project will involve developing biologically inspired machine learning techniques, like negative selection algorithms [7]. Negative selection algorithms are inspired by how the immune system is trained to detect pathogens. This project will involve developing a biologically inspired machine learning algorithm and applying it to cyber security. An example application would be detecting outliers in network traffic.
