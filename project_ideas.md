@@ -34,13 +34,13 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
 
-### Project idea 1C: explainable AI applied to biology/computational biology
+<!---### Project idea 1C: explainable AI applied to biology/computational biology
 
 Cells express receptors on their surface. These receptors are expressed based on genes.
 These receptors bind to rceptors on other cells.
 
 This project will use publicly available genomic data to predict what receptors will be expressed on the surface of a cell.
-
+-->
 
 
 
@@ -59,7 +59,7 @@ This project will use publicly available genomic data to predict what receptors 
    This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
 
 
-### Project idea 3
+### Project idea 3: Personalized explainable AI
 
 Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener.
 
@@ -81,11 +81,24 @@ This can also be done in a federated fashion that will help preserve privacy.
 
 This project is a collaboration with Dr. Abhirup Ghosh.
 
-### Project idea 5: Explainable AI models applied to time series data
+<!---### Project idea 5: Explainable AI models applied to time series data
 
 This project will involve developing explainable AI models for time series data. The time series data will come from ECG data and data from activity sensors.
 
 This project is a collaboration with Dr. Abhirup Ghosh.
+-->
+
+
+### Project idea 5: Generative AI applied to complex systems
+
+
+This project will involve modelling complex systems (like an epidemic spread) with generative agents. For example, generative agents can be coupled to agent based models. This can be used to simulate epidemics.
+
+https://arxiv.org/abs/2307.04986
+
+https://github.com/bear96/GABM-Epidemic
+
+We will further develop this this framework and apply it to other complex systems (like supply chains, modelling of disinformation, people who are against taking vaccines, conflicts in societies, etc.) 
 
 
  
