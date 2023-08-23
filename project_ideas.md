@@ -62,7 +62,7 @@ This project will use publicly available genomic data to predict what receptors 
 
 ### Project idea 3: Personalized explainable AI
 
-Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language expplnanations based on unique background of listener.
+Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language explanations based on the unique background of the listener/audience.
 
 <!--(joint supervision with Peter Ochieng). 
 -->
