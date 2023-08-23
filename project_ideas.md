@@ -43,7 +43,7 @@ This project will use publicly available genomic data to predict what receptors 
 -->
 
 
-
+<!--
 ### Project idea 2
 
 * For high stakes decisions we need simple and explainable/interpretable models. This need is acute in the case of healthcare and social sciences like recidivism prediction [2]. In this project, we will build simple interpretable models that are surrogates for deep learning models. 
@@ -58,6 +58,7 @@ This project will use publicly available genomic data to predict what receptors 
 
    This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
 
+-->
 
 ### Project idea 3: Personalized explainable AI
 
