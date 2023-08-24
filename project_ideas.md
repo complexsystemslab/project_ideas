@@ -222,14 +222,15 @@ Other ideas include discovering ordinary differential equations from data
 https://arxiv.org/abs/2211.02830#
 
 
+<!--
 ### Project idea 9 (Collective intelligence in AI)
 
 Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
+-->
  
+### Project idea 9B (Collective intelligence in AI)
  
-### Project idea 9B
- 
-The role of noise in collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
+This project will investigate collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
 https://github.com/geek-ai/MAgent
 
