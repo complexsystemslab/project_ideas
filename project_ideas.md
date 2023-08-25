@@ -121,6 +121,8 @@ We will further develop this this framework and apply it to other complex system
 
  https://github.com/fargonauts/copycat
  
+
+ <!--
  
  ### Project idea 7
  
@@ -135,6 +137,8 @@ We will further develop this this framework and apply it to other complex system
    https://github.com/alejandrodemiquel/ARC_Kaggle
 
  Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata.
+
+-->
  
  <!--
  This will also involve extensions of the DreamCoder paper.
