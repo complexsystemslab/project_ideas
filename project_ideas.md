@@ -24,12 +24,13 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
  
  There are many ways in which the work presented in [1] can be extended (either new methods or new application areas). Please get in touch to discuss. 
  
- 
+ <!--
 ### Project idea 1B: explainable AI applied to biology/computational biology
 
  Another project idea is to apply explainable AI approaches to genomic data. This will be a machine learning, computational biology and bioinformatics project.
  
  The student will develop explainable AI approaches for interpreting clusters in single-cell gene expression data or other biological data. There is an opportunity to also look at other computational biology projects. No background is biology is necessary.
+-->
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
@@ -68,7 +69,7 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 <!--(joint supervision with Peter Ochieng). 
 -->
 
-### Project 4: Tradeoffs between explainabilty and privacy
+### Project 2: Tradeoffs between explainabilty and privacy
 
 Develop explainable machine learning models that explain themselves but do so without leaking personal data. For example, class-contrastive reasoning techniques [1] can be used to generate explanations. But they can inadvertently leak personal data. This project will explore the tradeoff between explainability and privacy (and potentially bias). This will lead to models that balance explainability, privacy and bias.
 
@@ -92,7 +93,7 @@ This project is a collaboration with Dr. Abhirup Ghosh.
 -->
 
 
-### Project idea 5: Generative AI applied to complex systems
+### Project idea 3: Generative AI applied to complex systems
 
 
 This project will involve modelling complex systems (like an epidemic spread) with generative agents. For example, generative agents can be coupled to agent based models. This can be used to simulate epidemics.
@@ -105,7 +106,7 @@ We will further develop this this framework and apply it to other complex system
 
 
  
- ### Project idea 6
+ ### Project idea 4
  
  * Build a computational model of analogy making and apply it to biomedical and genomic data.
  
