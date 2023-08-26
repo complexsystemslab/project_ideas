@@ -59,10 +59,11 @@ This project will use publicly available genomic data to predict what receptors 
    This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
 
 -->
-
+<!--
 ### Project idea 3: Personalized explainable AI
 
 Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language explanations based on the unique background of the listener/audience.
+-->
 
 <!--(joint supervision with Peter Ochieng). 
 -->
