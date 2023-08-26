@@ -71,7 +71,7 @@ Tailor machine learning model explanations based on audience (e.g. patients, cli
 
 Develop explainable machine learning models that explain themselves but do so without leaking personal data. For example, class-contrastive reasoning techniques [1] can be used to generate explanations. But they can inadvertently leak personal data. This project will explore the tradeoff between explainability and privacy (and potentially bias). This will lead to models that balance explainability, privacy and bias.
 
-
+<!--
 ### Project idea 4B: Explainable privacy preserving machine learning
 
 Develop explainable machine learning models that are also privacy preserving. 
@@ -81,6 +81,7 @@ Model explanations will be extracted from machine learning models. However this 
 This can also be done in a federated fashion that will help preserve privacy. 
 
 This project is a collaboration with Dr. Abhirup Ghosh.
+-->
 
 <!---### Project idea 5: Explainable AI models applied to time series data
 
@@ -353,7 +354,7 @@ https://doi.org/10.1016/j.patter.2023.100773
  
 ## Supervision 
  
- Students will be jointly supervised with Prof. Neil Lawrence and Prof. Pietro Lio.
+ Students will be jointly supervised with Prof. Neil Lawrence or Prof. Pietro Lio.
 
 ## Contact
 
