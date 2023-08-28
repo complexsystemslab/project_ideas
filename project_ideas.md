@@ -306,12 +306,14 @@ https://arxiv.org/abs/2307.04986
 https://github.com/bear96/GABM-Epidemic
 
 
-
+<!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
 
 This project will involve developing biologically inspired machine learning techniques, like negative selection algorithms [7]. Negative selection algorithms are inspired by how the immune system is trained to detect pathogens. This project will involve developing a biologically inspired machine learning algorithm and applying it to cyber security. An example application would be detecting outliers in network traffic.
+-->
 
 
+<!--
 ### Project idea 12: AI applied to cyber security
 
 This project will develop AI tools applied to cyber security. 
@@ -320,12 +322,14 @@ Ideas include developing and improving on AI based methods for password guessing
 
 https://arxiv.org/pdf/1709.00440.pdf
 
+
 <!-- talk on AI applied to cyber security
 
 https://www.youtube.com/watch?v=oBdB61A8Yt8
 
 -->
 
+<!--
 Other ideas include extending AI based approaches to generate better phishing URLs. For example, DeepPhish: Simulating Malicious AI
 
 https://albahnsen.files.wordpress.com/2018/05/deepphish-simulating-malicious-ai_submitted.pdf
@@ -341,18 +345,20 @@ We can also use autoencoders for detecting outliers in network traffic data.
 Other ideas include using deep autoencoders for detecting malicious source code
 
 https://doi.org/10.1016/j.patter.2023.100773
+-->
 
 
+<!--
 ### Project idea 13
 
 * Other project ideas are generating synthetic data from private datasets like data from electronic healthcare records data [3], other explanatory artificial intelligence (xAI) techniques, privacy preserving machine learning [4], documenting data and models, detecting concept drift [6], etc. 
+-->
 
-
-
+<!--
 ### Other ideas
 
  Project ideas can be developed according to student interests. If you have other project ideas you would like to discuss, please come speak with me.
- 
+ -->
  
 ## Supervision 
  
