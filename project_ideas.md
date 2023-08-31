@@ -359,6 +359,25 @@ https://doi.org/10.1016/j.patter.2023.100773
 
  Project ideas can be developed according to student interests. If you have other project ideas you would like to discuss, please come speak with me.
  -->
+
+<!--
+### Computational virology and computational immunology
+
+Some specific projects can involve:
+
+* Inferring biologically relevant parameters for viral infection from time series data
+
+Estimating biologically relevant parameters under uncertainty for experimental within-host murine West Nile virus infection, Soumya Banerjee, Jeremie Guedj, Ruy Ribeiro, Melanie Moses & Alan Perelson Journal of the Royal Society Interface, 13(117), 20160130, 2016
+
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0130
+
+* Understanding the nature of central tolerance using publicly available genomic data
+
+Influence of correlated antigen presentation on T cell negative selection in the thymus, Soumya Banerjee, SJ Chapman, Journal of the Royal Society Interface, 15(148), 20180311, 2018
+
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2018.0311
+
+-->
  
 ## Supervision 
  
