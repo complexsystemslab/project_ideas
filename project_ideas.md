@@ -205,6 +205,8 @@ https://github.com/jantzen/BACON
 
 One can also apply symbolic regression approaches like PySR (python) or gramEvol (R).
 
+This can be applied to discover, for example, trigonometric identities.
+
 <!-- one can also apply Bayesian symbolic regression. This can be applied to discover trigonometric identities. This would be a joint project with Challenger Mishra -->
 
 <!-- data can be used from the AI feynman database on Max tegmark's website -->
