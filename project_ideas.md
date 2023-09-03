@@ -156,7 +156,7 @@ We will further develop this this framework and apply it to other complex system
  
  
 
-### Project idea 8 (Automated Scientific Discovery)
+### Project idea 5 (Automated Scientific Discovery)
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  
 
@@ -174,7 +174,7 @@ The project would involve building a model that would generate insights from the
 
 
 
-### Project idea 8B
+### Project idea 5B (Automated Scientific Discovery)
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  This will enable us to automatically discover conservation laws from data.
 
@@ -187,7 +187,7 @@ This would be an explainable AI model for a complex model of a physical system.
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
-### Project idea 8C
+### Project idea 5C (Automated Scientific Discovery)
 
 This is a project on automatically discovering scientific laws or mathematical equations from data.    
 
@@ -237,7 +237,7 @@ https://arxiv.org/abs/2211.02830#
 Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
 -->
  
-### Project idea 9B (Collective intelligence in AI)
+### Project idea 6 (Collective intelligence in AI)
  
 This project will investigate collective artifical intelligence in building behaviour (altruism, co-operation, competition) and structures (structures to capture prey). This will use the multi-agent platform MAgent
 
@@ -254,7 +254,7 @@ https://worldmodels.github.io/
 https://smartlabai.medium.com/world-models-a-reinforcement-learning-story-cdcc86093c5
 
 
-### Project idea 9C (Modelling complex systems with generative agents)
+### Project idea 6C (Modelling complex systems with generative agents)
 
 This project will involve modelling complex systems (like an epidemic spread) with generative agents. For example, generative agents can be coupled to agent based models. This can be used to simulate epidemics.
 
@@ -265,7 +265,7 @@ https://github.com/bear96/GABM-Epidemic
 This can also be combined with neural automata (see projects below)
 
 
-### Project idea 10 (Explainable neural cellular automata)
+### Project idea 7 (Explainable neural cellular automata)
 
 Extending the neural cellular automata
 
@@ -292,7 +292,7 @@ https://github.com/md861/HypFEM
 This would be jointly with Mayank Drolia.
 
 
-### Project idea 10B (Neural cellular automata for control of complex systems)
+### Project idea 7B (Neural cellular automata for control of complex systems)
 
 
 Use neural cellular automate for self-organized control of complex systems
