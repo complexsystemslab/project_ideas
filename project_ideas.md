@@ -308,6 +308,22 @@ https://arxiv.org/abs/2307.04986
 https://github.com/bear96/GABM-Epidemic
 
 
+### Project idea 8 (Commonsense reasoning in large language models)
+
+This project would involve injecting commonsense in large language models.
+
+Large language models can fail in spectacular ways. Some of this can be attributed to a lack of commonsense:
+
+http://web.archive.org/web/20230902080842/https://garymarcus.substack.com/p/doug-lenat-1950-2023
+
+https://arxiv.org/pdf/2308.04445.pdf
+
+This would involve using the open-source database of commonsense rules (OpenCyc)
+
+https://github.com/asanchez75/opencyc
+
+and incorporating small aspects of this in a simple large language model.
+
 <!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
 
