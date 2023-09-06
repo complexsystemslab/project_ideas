@@ -279,7 +279,7 @@ https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
 
 https://github.com/tomgrek/gameoflife
 
-We can also apply it to biological data from cell biology.
+We can also apply it to biological data from cell biology (this can be a computational biology project).
 <!-- morphology or wave propagation in the Rho GTPase system -->
 <!--This would be similar to wave propagation in B-Z systems. We can also apply it to data from the B-Z system. -->
 
