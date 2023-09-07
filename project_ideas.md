@@ -102,8 +102,9 @@ https://arxiv.org/abs/2307.04986
 
 https://github.com/bear96/GABM-Epidemic
 
-We will further develop this this framework and apply it to other complex systems (like supply chains, modelling of disinformation, people who are against taking vaccines, conflicts in societies, etc.) 
+We will further develop this this framework and apply it to other complex systems (like supply chains, modelling of disinformation, people who are against taking vaccines, conflicts in societies, ecosystem modelling [see below] etc.) 
 
+https://research.csiro.au/atlantis/home/model-components/
 
  
  ### Project idea 4
@@ -262,7 +263,12 @@ https://arxiv.org/abs/2307.04986
 
 https://github.com/bear96/GABM-Epidemic
 
+We will further develop this this framework and apply it to other complex systems (like supply chains, modelling of disinformation, people who are against taking vaccines, conflicts in societies, ecosystem modelling [see below] etc.) 
+
+https://research.csiro.au/atlantis/home/model-components/
+
 This can also be combined with neural automata (see projects below)
+
 
 
 ### Project idea 7 (Explainable neural cellular automata)
@@ -280,6 +286,9 @@ https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
 https://github.com/tomgrek/gameoflife
 
 We can also apply it to biological data from cell biology (this can be a computational biology project).
+
+https://greydanus.github.io/2022/05/24/studying-growth/
+
 <!-- morphology or wave propagation in the Rho GTPase system -->
 <!--This would be similar to wave propagation in B-Z systems. We can also apply it to data from the B-Z system. -->
 
