@@ -188,7 +188,7 @@ This would be an explainable AI model for a complex model of a physical system.
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
 
-### Project idea 5C (Automated Scientific Discovery)
+### Project idea 5C (Automated Scientific Discovery applied to different problems [e.g. healthcare])
 
 This is a project on automatically discovering scientific laws or mathematical equations from data.    
 
@@ -232,6 +232,8 @@ Other ideas include discovering ordinary differential equations from data
 https://arxiv.org/abs/2211.02830#
 
 
+These techniques can also be applied to healthcare data (for example, data from smartwatches). This would be a AI applied to healthcare project (jointly with Dr. Abhirup Ghosh). 
+
 <!--
 ### Project idea 9 (Collective intelligence in AI)
 
@@ -271,7 +273,7 @@ This can also be combined with neural automata (see projects below)
 
 
 
-### Project idea 7 (Explainable neural cellular automata)
+### Project idea 7 (Explainable neural cellular automata applied to biology [computational biology project])
 
 Extending the neural cellular automata
 
