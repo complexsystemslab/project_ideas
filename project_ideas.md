@@ -253,7 +253,7 @@ Other ideas include discovering ordinary differential equations from data
 https://arxiv.org/abs/2211.02830#
 
 
-These techniques can also be applied to healthcare data (for example, data from smartwatches). This would be a AI applied to healthcare project (jointly with Dr. Abhirup Ghosh). 
+These techniques can also be applied to healthcare data (for example, data from smartwatches). This would be an AI applied to healthcare project (jointly with Dr. Abhirup Ghosh). 
 
 <!--
 ### Project idea 9 (Collective intelligence in AI)
