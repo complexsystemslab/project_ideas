@@ -1,6 +1,6 @@
 
  
-# M.Phil Part 3 project ideas 
+# Project ideas 
 
 Soumya Banerjee 
 
@@ -106,6 +106,27 @@ We will further develop this this framework and apply it to other complex system
 
 https://research.csiro.au/atlantis/home/model-components/
 
+
+
+### Project idea (Explainable neural cellular automata applied to biology [computational biology project])
+
+Extending the neural cellular automata
+
+https://distill.pub/2020/growing-ca/#experiment-2
+
+and make it more interpretable and explainable.
+
+For example, you can apply it to data from the Game of Life and infer the rules.
+
+https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
+
+https://github.com/tomgrek/gameoflife
+
+We can also apply it to biological data from cell biology (this can be a computational biology project). We have real world data from cell biology. 
+
+https://greydanus.github.io/2022/05/24/studying-growth/
+
+No experience in biology is required.
  
  ### Project idea 4
  
@@ -287,7 +308,7 @@ https://github.com/lantunes/netomaton/blob/master/demos/game_of_life/README.md
 
 https://github.com/tomgrek/gameoflife
 
-We can also apply it to biological data from cell biology (this can be a computational biology project).
+We can also apply it to biological data from cell biology (this can be a computational biology project). We have real world data from cell biology. 
 
 https://greydanus.github.io/2022/05/24/studying-growth/
 
