@@ -356,6 +356,24 @@ https://github.com/asanchez75/opencyc
 
 and incorporating small aspects of this in a simple large language model.
 
+
+
+### Project idea 9 (Reasoning and large language models)
+ 
+ Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
+ 
+   https://github.com/fchollet/ARC
+
+ Abstraction and Reasoning Corpus Challenge
+
+   https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
+
+   https://github.com/alejandrodemiquel/ARC_Kaggle
+
+It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
+
+This will be a collaboration with Mikel Bober-Irizar.
+
 <!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
 
