@@ -378,6 +378,15 @@ It has been suggested that large language models cannot reason. This project wil
 
 This will be a collaboration with Mikel Bober-Irizar.
 
+
+### Project idea 10 (Computational Biology)
+
+Apply a Bayesian neural network to high dimensional biological data/sequencing data. 
+
+https://rdrr.io/cran/BNN/
+
+This would be a collaboration with Dr. Tom Chittenden.
+
 <!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
 
