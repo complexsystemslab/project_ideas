@@ -106,6 +106,12 @@ We will further develop this this framework and apply it to other complex system
 
 https://research.csiro.au/atlantis/home/model-components/
 
+We can also apply this to models like the World3 model
+
+https://en.wikipedia.org/wiki/World3
+
+https://github.com/cvanwynsberghe/pyworld3
+
 
 
 ### Project idea (Explainable neural cellular automata applied to biology [computational biology project])
