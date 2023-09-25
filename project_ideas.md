@@ -382,6 +382,8 @@ and incorporating small aspects of this in a simple large language model.
 
 It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
 
+We can also apply large language models to reasoning in math problems.
+
 This will be a collaboration with Mikel Bober-Irizar.
 
 
@@ -390,6 +392,8 @@ This will be a collaboration with Mikel Bober-Irizar.
 Apply a Bayesian neural network to high dimensional biological data/sequencing data. 
 
 https://rdrr.io/cran/BNN/
+
+This project will also look at spatial transcriptomics data.
 
 This would be a collaboration with Dr. Tom Chittenden.
 
