@@ -112,6 +112,9 @@ https://en.wikipedia.org/wiki/World3
 
 https://github.com/cvanwynsberghe/pyworld3
 
+and models of ecosystems
+
+https://gitlab.com/ecotwin/
 
 
 ### Project idea (Explainable neural cellular automata applied to biology [computational biology project])
@@ -332,6 +335,8 @@ Another idea is to apply this to simulations from computational fluid dynamics u
 https://github.com/md861/HypFEM
 
 This would be jointly with Mayank Drolia.
+
+This can also be applied to genomic data.
 
 
 ### Project idea 7B (Neural cellular automata for control of complex systems)
