@@ -24,13 +24,13 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
  
  There are many ways in which the work presented in [1] can be extended (either new methods or new application areas). Please get in touch to discuss. 
  
- <!--
+ 
 ### Project idea 1B: explainable AI applied to biology/computational biology
 
  Another project idea is to apply explainable AI approaches to genomic data. This will be a machine learning, computational biology and bioinformatics project.
  
  The student will develop explainable AI approaches for interpreting clusters in single-cell gene expression data or other biological data. There is an opportunity to also look at other computational biology projects. No background is biology is necessary.
--->
+
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
@@ -60,14 +60,12 @@ This project will use publicly available genomic data to predict what receptors 
    This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools  and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers. 
 
 -->
-<!--
-### Project idea 3: Personalized explainable AI
+
+
+### Project idea 1C: Personalized explainable AI
 
 Tailor machine learning model explanations based on audience (e.g. patients, clinicians, farmers, etc.). Generate natural language explanations from machine learning model and tailor these natural language explanations based on the unique background of the listener/audience.
--->
 
-<!--(joint supervision with Peter Ochieng). 
--->
 
 ### Project 2: Tradeoffs between explainabilty and privacy
 
