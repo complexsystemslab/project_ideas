@@ -34,13 +34,22 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
   This work is part of the Accelerate Programme for Scientific Discovery which aims to democratize access to AI tools and apply AI to problems from diverse disciplines. The student will be part of a growing community of inter-disciplinary AI researchers at the University of Cambridge. 
 
-
+<!--
 ### Project idea 1C: explainable AI applied to biology/computational biology
 
 Cells express receptors on their surface. These receptors are expressed based on genes.
 These receptors bind to rceptors on other cells.
 
 This project will use publicly available genomic data to predict what receptors will be expressed on the surface of a cell.
+-->
+
+### Project idea 1C: explainable AI applied to health data/electronic healthcare record data
+
+This project will involve developing novel explainable AI algorithms and applying them to health data from a local hospital. The data will be on mental health.
+
+The student will work closely with a clinician and psychiatrist. The student will learn skills on how to work in an inter-disciplinary manner.
+
+This is work in collaboration with Dr. Anna Moore Winter.
 
 
 
@@ -389,7 +398,7 @@ We can also apply large language models to reasoning in math problems.
 
 This will be a collaboration with Mikel Bober-Irizar.
 
-
+<!--
 ### Project idea 10 (Computational Biology)
 
 Apply machine learning to high dimensional biological data/sequencing data. 
@@ -403,6 +412,7 @@ https://rdrr.io/cran/BNN/
 This project will look at spatial transcriptomics data.
 
 This would be a collaboration with Dr. Tom Chittenden.
+-->
 
 <!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
