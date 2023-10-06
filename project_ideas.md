@@ -414,7 +414,7 @@ This project will look at spatial transcriptomics data.
 
 This would be a collaboration with Dr. Tom Chittenden.
 -->
--->
+
 
 <!--
 ### Project idea 11: Biologically inspired machine learning applied to cyber security
