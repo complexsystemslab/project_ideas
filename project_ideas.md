@@ -4,7 +4,7 @@
 
 Soumya Banerjee 
 
-Senior Research Fellow
+Senior Research Fellow and Affiliated Lecturer
 
 University of Cambridge, Cambridge, United Kingdom 
 
