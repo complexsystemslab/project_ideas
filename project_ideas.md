@@ -47,7 +47,7 @@ This project will use publicly available genomic data to predict what receptors 
 
 This project will involve developing novel explainable AI algorithms and applying them to health data from a local hospital. The data will be on mental health.
 
-The student will work closely with a clinician and psychiatrist. The student will learn skills on how to work in an inter-disciplinary manner.
+The student will work closely with a clinician and psychiatrist and work on real data. The student will learn skills on how to work in an inter-disciplinary manner. This work would have real work impact and will help patients with mental illnesses.
 
 This is work in collaboration with Dr. Anna Moore Winter.
 
@@ -409,9 +409,11 @@ a Bayesian neural network
 https://rdrr.io/cran/BNN/
 -->
 
+<!--
 This project will look at spatial transcriptomics data.
 
 This would be a collaboration with Dr. Tom Chittenden.
+-->
 -->
 
 <!--
