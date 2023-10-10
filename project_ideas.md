@@ -398,6 +398,15 @@ We can also apply large language models to reasoning in math problems.
 
 This will be a collaboration with Mikel Bober-Irizar.
 
+
+### Project idea 10: Machine learning applied to hydrologic data and disease models
+
+This project will use hydrologic data and rainfall data from the British Antarctic Survey. This will be used to build machine learning models to predict rainfall, climate change and the effect on diseases (vector-borne diseases like malaria).
+
+This would be a collaboration with Dr. Andrew Orr at the British Antarctic Survey.
+
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
