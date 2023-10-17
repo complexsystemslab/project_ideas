@@ -406,6 +406,16 @@ This project will use hydrologic data and rainfall data from the British Antarct
 This would be a collaboration with Dr. Andrew Orr at the British Antarctic Survey.
 
 
+### Project idea 11: Large langauge models for mathematical and scientific reasoning
+
+This project will use large language models (LLMs) for scientific and mathematical reasoning.
+
+https://arxiv.org/pdf/2308.09583.pdf
+
+https://arxiv.org/pdf/2307.10635.pdf
+
+This is jointly with Dr. Abhirup Ghosh.
+
 
 <!--
 ### Project idea 10 (Computational Biology)
