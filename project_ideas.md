@@ -417,6 +417,12 @@ https://arxiv.org/pdf/2307.10635.pdf
 This is jointly with Dr. Abhirup Ghosh.
 
 
+### Embodied Language Models
+
+https://arxiv.org/pdf/2305.10626.pdf
+
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
