@@ -422,6 +422,16 @@ This is jointly with Dr. Abhirup Ghosh.
 https://arxiv.org/pdf/2305.10626.pdf
 
 
+### Simulation of complex systems and societies with large-language models
+
+War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars
+
+https://arxiv.org/pdf/2311.17227.pdf
+
+https://github.com/agiresearch/WarAgent
+
+
+
 
 <!--
 ### Project idea 10 (Computational Biology)
