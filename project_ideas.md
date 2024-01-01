@@ -431,7 +431,13 @@ https://arxiv.org/pdf/2311.17227.pdf
 https://github.com/agiresearch/WarAgent
 
 
+### Mechanistic interpretability of LLMs
 
+This project will use mechanistic interpretability to explain LLMs.
+
+* https://grgv.xyz/blog/copycat/
+
+* https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
 
 <!--
 ### Project idea 10 (Computational Biology)
