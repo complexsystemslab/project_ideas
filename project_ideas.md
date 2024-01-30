@@ -447,6 +447,10 @@ https://arxiv.org/pdf/2401.12975.pdf
 
 https://github.com/UMass-Foundation-Model/HAZARD
 
+Natural language societies of mind
+
+https://arxiv.org/abs/2305.17066
+
 <!--
 ### Project idea 10 (Computational Biology)
 
