@@ -439,6 +439,14 @@ This project will use mechanistic interpretability to explain LLMs.
 
 * https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
 
+### Embodied Cognition
+
+HAZARD challenge: embodied decision making in dynamically changing environments
+
+https://arxiv.org/pdf/2401.12975.pdf
+
+https://github.com/UMass-Foundation-Model/HAZARD
+
 <!--
 ### Project idea 10 (Computational Biology)
 
