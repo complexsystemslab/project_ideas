@@ -451,6 +451,15 @@ Natural language societies of mind
 
 https://arxiv.org/abs/2305.17066
 
+
+### Theory of mind for large-language models
+
+Theory of Mind benchmark for large language models
+
+https://arxiv.org/abs/2402.06044
+
+https://github.com/seacowx/OpenToM
+
 <!--
 ### Project idea 10 (Computational Biology)
 
