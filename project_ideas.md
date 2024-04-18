@@ -460,6 +460,15 @@ https://arxiv.org/abs/2402.06044
 
 https://github.com/seacowx/OpenToM
 
+
+### Multi-agent collaboration with LLMs
+
+Creating multi-agent systems with LLMs. 
+
+``In many companies, managers routinely decide what roles to hire, and then how to split complex projects — like writing a large piece of software or preparing a research report — into smaller tasks to assign to employees with different specialties. Using multiple agents is analogous. Each agent implements its own workflow, has its own memory (itself a rapidly evolving area in agentic technology: how can an agent remember enough of its past interactions to perform better on upcoming ones?), and may ask other agents for help. Agents can also engage in Planning and Tool Use. This results in a cacophony of LLM calls and message passing between agents that can result in very complex workflows.``
+
+https://github.com/OpenBMB/ChatDev
+
 <!--
 ### Project idea 10 (Computational Biology)
 
