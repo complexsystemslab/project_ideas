@@ -289,34 +289,6 @@ https://arxiv.org/pdf/2311.17227.pdf
 https://github.com/agiresearch/WarAgent
 
 
-### Mechanistic interpretability of LLMs
-
-This project will use mechanistic interpretability to explain LLMs.
-
-* https://grgv.xyz/blog/copycat/
-
-* https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
-
-### Embodied Cognition
-
-HAZARD challenge: embodied decision making in dynamically changing environments
-
-https://arxiv.org/pdf/2401.12975.pdf
-
-https://github.com/UMass-Foundation-Model/HAZARD
-
-Natural language societies of mind
-
-https://arxiv.org/abs/2305.17066
-
-
-### Theory of mind for large-language models
-
-Theory of Mind benchmark for large language models
-
-https://arxiv.org/abs/2402.06044
-
-https://github.com/seacowx/OpenToM
 
 
 ### Multi-agent collaboration with LLMs
