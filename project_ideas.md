@@ -362,6 +362,16 @@ https://arxiv.org/abs/2307.04986
 https://github.com/bear96/GABM-Epidemic
 
 
+Neural Cellular Automata Enable Self-Discovery of Physical Configuration
+in Modular Robots Driven by Collective Intelligence
+
+https://www.nichele.eu/ALIFE-DistributedGhost/1-Nadizar.pdf
+
+unityml engine for controlling robots
+https://github.com/FrankVeenstra/EvolvingModularRobots_Unity
+
+https://www.mn.uio.no/ifi/english/research/groups/robin/events/Tutorials/Tutorial-ALIFE2024/Tutorial-ALIFE2024
+
 ### Project idea 8 (Commonsense reasoning in large language models)
 
 This project would involve injecting commonsense in large language models.
