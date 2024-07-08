@@ -275,11 +275,17 @@ An example dataset can be the following:
 
 https://www.physionet.org/content/wearable-exam-stress/1.0.0/
 
-<!--
-### Project idea 9 (Collective intelligence in AI)
+
+### Project idea (Collective intelligence in AI)
 
 Dynamics of collective learning in artificial neural networks, Hopfield networks, self organizing maps and neural gas.
--->
+
+Application of ideas of emergence of intelligence-like behaviour in these systems like the following paper
+
+Evolving reservoir computers reveals bidirectional coupling between predictive power and emergent dynamics
+
+https://arxiv.org/pdf/2406.19201v1
+
  
 ### Project idea 6 (Collective intelligence in AI)
  
