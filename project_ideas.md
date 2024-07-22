@@ -487,6 +487,16 @@ Creating multi-agent systems with LLMs.
 
 https://github.com/OpenBMB/ChatDev
 
+
+### Project idea (Self replicating prompts in LLMs)
+
+Self-Replicating Prompts for Large Language Models: Towards Artificial Culture 
+
+https://direct.mit.edu/isal/proceedings/isal2024/36/110/123523
+
+https://github.com/gstenzel/TowardsACULTURECode
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
