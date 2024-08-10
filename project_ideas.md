@@ -497,6 +497,17 @@ https://direct.mit.edu/isal/proceedings/isal2024/36/110/123523
 https://github.com/gstenzel/TowardsACULTURECode
 
 
+### Reasoning about the physical properties of objects
+
+Extend the following framework to reason about the physical properties of objects
+
+Compositional Physical Reasoning of Objects and Events from Videos
+
+
+https://arxiv.org/pdf/2408.02687
+
+https://physicalconceptreasoner.github.io/
+
 <!--
 ### Project idea 10 (Computational Biology)
 
