@@ -508,6 +508,12 @@ https://arxiv.org/pdf/2408.02687
 
 https://physicalconceptreasoner.github.io/
 
+
+### Simulating robots for caring for humans
+
+https://emprise.cs.cornell.edu/rcareworld/
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
