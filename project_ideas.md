@@ -514,6 +514,13 @@ https://physicalconceptreasoner.github.io/
 https://emprise.cs.cornell.edu/rcareworld/
 
 
+### AI Scientist
+
+Extend this project and create AI that ill perform experiments and write papers
+
+https://arxiv.org/pdf/2408.06292
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
