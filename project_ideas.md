@@ -529,6 +529,13 @@ MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
 
 https://arxiv.org/pdf/2407.20183
 
+Also see the demo
+
+https://mindsearch.netlify.app/demo
+
+https://mindsearch.openxlab.org.cn/
+
+
 
 <!--
 ### Project idea 10 (Computational Biology)
