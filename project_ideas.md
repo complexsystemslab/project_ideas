@@ -521,6 +521,15 @@ Extend this project and create AI that ill perform experiments and write papers
 https://arxiv.org/pdf/2408.06292
 
 
+### MindSearch LLM
+
+Improvements to the following paper
+
+MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
+
+https://arxiv.org/pdf/2407.20183
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
