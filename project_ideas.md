@@ -536,6 +536,16 @@ https://mindsearch.netlify.app/demo
 https://mindsearch.openxlab.org.cn/
 
 
+### Using LLMs to reason on visual tasks
+
+Can Large Language Models Understand Symbolic Graphics Programs?
+
+https://arxiv.org/pdf/2408.08313
+
+Evaluating Math Reasoning in Visual Contexts
+
+https://mathvista.github.io/
+
 
 <!--
 ### Project idea 10 (Computational Biology)
