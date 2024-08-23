@@ -547,6 +547,12 @@ Evaluating Math Reasoning in Visual Contexts
 https://mathvista.github.io/
 
 
+### Using LLMs for solving math problems
+
+Extend the work below to solve math problems and physics problems
+
+https://qwenlm.github.io/blog/qwen2-math/
+
 <!--
 ### Project idea 10 (Computational Biology)
 
