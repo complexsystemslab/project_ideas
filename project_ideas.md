@@ -210,6 +210,7 @@ This would be an explainable AI model for a complex model of a physical system.
 
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
+There is also scope to use large-language models in this project.
 
 
 ### Project idea 5B (Automated Scientific Discovery)
