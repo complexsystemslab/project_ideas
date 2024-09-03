@@ -554,6 +554,11 @@ Extend the work below to solve math problems and physics problems
 
 https://qwenlm.github.io/blog/qwen2-math/
 
+### Study emergence in LLMs
+
+Study emergence and phase-transitions in LLMs. Collaboration with Prof. Georgi Georgiev.
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
