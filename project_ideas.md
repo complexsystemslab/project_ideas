@@ -436,10 +436,6 @@ https://arxiv.org/pdf/2307.10635.pdf
 This is jointly with Dr. Abhirup Ghosh.
 
 
-### Embodied Language Models
-
-https://arxiv.org/pdf/2305.10626.pdf
-
 
 ### Simulation of complex systems and societies with large-language models
 
@@ -457,6 +453,15 @@ This project will use mechanistic interpretability to explain LLMs.
 * https://grgv.xyz/blog/copycat/
 
 * https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
+
+### Embodied Language Models
+
+This project will extend the following paper:
+
+Language Models Meet World Models: Embodied Experiences Enhance Language Models
+
+https://arxiv.org/pdf/2305.10626.pdf
+
 
 ### Embodied Cognition
 
