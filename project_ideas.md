@@ -563,6 +563,9 @@ https://qwenlm.github.io/blog/qwen2-math/
 
 Study emergence and phase-transitions in LLMs. Collaboration with Prof. Georgi Georgiev.
 
+### LLMs for the global south
+
+This project will develop Swahili LLMs for scientific question and answering. This is a project with Dr. Nirav Bhatt.
 
 <!--
 ### Project idea 10 (Computational Biology)
