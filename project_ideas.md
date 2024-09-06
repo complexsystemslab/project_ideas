@@ -462,6 +462,12 @@ Language Models Meet World Models: Embodied Experiences Enhance Language Models
 
 https://arxiv.org/pdf/2305.10626.pdf
 
+This project can look to extend LLMs to play video games in 3D environments. For example, see the paper:
+
+Scaling Instructable Agents Across Many Simulated Worlds
+
+https://arxiv.org/pdf/2404.10179
+
 
 ### Embodied Cognition
 
