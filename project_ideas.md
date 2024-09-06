@@ -567,7 +567,7 @@ https://qwenlm.github.io/blog/qwen2-math/
 
 ### Study emergence in LLMs
 
-Study emergence and phase-transitions in LLMs. Collaboration with Prof. Georgi Georgiev.
+Study emergence and phase-transitions in LLMs. We will also investigate how hallucinations arise in LLMs. Collaboration with Prof. Georgi Georgiev.
 
 ### LLMs for the Global South
 
