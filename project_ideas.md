@@ -18,6 +18,13 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 ## Projects 
 
+### Project idea (Embodied AI and robotics and large language models)
+
+This project will explore the use of large language models (LLMs) and a simple robot to explore the idea of embodied intelligence. We will also explore the idea of a mirror test in robots. 
+
+Intrigued? Please come speak with me.
+
+
 ### Project idea 1 (Explainable AI)
 
 * Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
