@@ -24,6 +24,33 @@ This project will explore the use of large language models (LLMs) and a simple r
 
 Intrigued? Please come speak with me.
 
+### Embodied Language Models
+
+This project will extend the following paper:
+
+Language Models Meet World Models: Embodied Experiences Enhance Language Models
+
+https://arxiv.org/pdf/2305.10626.pdf
+
+This project can look to extend LLMs to play video games in 3D environments. For example, see the paper:
+
+Scaling Instructable Agents Across Many Simulated Worlds
+
+https://arxiv.org/pdf/2404.10179
+
+
+### Embodied Cognition
+
+HAZARD challenge: embodied decision making in dynamically changing environments
+
+https://arxiv.org/pdf/2401.12975.pdf
+
+https://github.com/UMass-Foundation-Model/HAZARD
+
+Natural language societies of mind
+
+https://arxiv.org/abs/2305.17066
+
 
 ### Project idea 1 (Explainable AI)
 
@@ -461,32 +488,7 @@ This project will use mechanistic interpretability to explain LLMs.
 
 * https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens
 
-### Embodied Language Models
 
-This project will extend the following paper:
-
-Language Models Meet World Models: Embodied Experiences Enhance Language Models
-
-https://arxiv.org/pdf/2305.10626.pdf
-
-This project can look to extend LLMs to play video games in 3D environments. For example, see the paper:
-
-Scaling Instructable Agents Across Many Simulated Worlds
-
-https://arxiv.org/pdf/2404.10179
-
-
-### Embodied Cognition
-
-HAZARD challenge: embodied decision making in dynamically changing environments
-
-https://arxiv.org/pdf/2401.12975.pdf
-
-https://github.com/UMass-Foundation-Model/HAZARD
-
-Natural language societies of mind
-
-https://arxiv.org/abs/2305.17066
 
 
 ### Theory of mind for large-language models
