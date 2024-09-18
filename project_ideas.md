@@ -77,9 +77,9 @@ These receptors bind to rceptors on other cells.
 This project will use publicly available genomic data to predict what receptors will be expressed on the surface of a cell.
 -->
 
-### Project idea 1C: explainable AI applied to health data/electronic healthcare record data
+### Project idea 1C: explainable AI and LLMs/generative AI applied to health data/electronic healthcare record data
 
-This project will involve developing novel explainable AI algorithms and applying them to health data from a local hospital. The data will be on mental health.
+This project will involve developing novel explainable AI algorithms, LLMs and generative AI and applying them to health data from a local hospital. The data will be on mental health.
 
 The student will work closely with a clinician and psychiatrist and work on real data. The student will learn skills on how to work in an inter-disciplinary manner. This work would have real work impact and will help patients with mental illnesses.
 
