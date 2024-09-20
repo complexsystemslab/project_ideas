@@ -597,6 +597,18 @@ https://royalsocietypublishing.org/doi/full/10.1098/rsos.231393
 ### Explainability of LLMs
 
 A project to explain large-language models (LLMs) using prompt engineering based on class-contrastive counterfactuals [1,2]. This is a joint project with Prof. Pietro Lio.
+
+
+### Building an AI powered virtual cell
+
+This project will look at building a part of an AI powered virtual cell (AI virtual cell foundation models).
+
+How to Build the Virtual Cell with Artificial Intelligence: Priorities and Opportunities
+
+https://arxiv.org/pdf/2409.11654
+
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
