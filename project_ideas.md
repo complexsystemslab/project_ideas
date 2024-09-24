@@ -564,6 +564,14 @@ Extend this project and create AI that ill perform experiments and write papers
 
 https://arxiv.org/pdf/2408.06292
 
+This project will also use LLMs to generate new ideas and hypotheses. See the following:
+
+Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
+
+https://arxiv.org/pdf/2409.04109
+
+https://github.com/NoviScl/AI-Researcher
+
 
 ### MindSearch LLM
 
