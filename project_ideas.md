@@ -52,6 +52,27 @@ Natural language societies of mind
 https://arxiv.org/abs/2305.17066
 
 
+### Reasoning and large language models
+ 
+ Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
+ 
+   https://github.com/fchollet/ARC
+
+ Abstraction and Reasoning Corpus Challenge
+
+   https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
+
+   https://github.com/alejandrodemiquel/ARC_Kaggle
+
+It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
+
+We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
+
+We can also apply large language models to reasoning in math problems.
+
+This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
+
+
 ### Project idea 1 (Explainable AI)
 
 * Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
@@ -445,21 +466,22 @@ and incorporating small aspects of this in a simple large language model.
 
 It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
 
-We can also augment human performance with LLMs.
+We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
 
 We can also apply large language models to reasoning in math problems.
 
-This will be a collaboration with Mikel Bober-Irizar.
+This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
 
+<!--
 ### Project idea 10: Machine learning applied to hydrologic data and disease models
 
 This project will use hydrologic data and rainfall data from the British Antarctic Survey. This will be used to build machine learning models to predict rainfall, climate change and the effect on diseases (vector-borne diseases like malaria).
 
 This would be a collaboration with Dr. Andrew Orr at the British Antarctic Survey.
+-->
 
-
-### Project idea 11: Large langauge models for mathematical and scientific reasoning
+### Project idea 10: Large langauge models for mathematical and scientific reasoning
 
 This project will use large language models (LLMs) for scientific and mathematical reasoning.
 
