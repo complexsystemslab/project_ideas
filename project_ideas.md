@@ -72,6 +72,7 @@ We can also apply large language models to reasoning in math problems.
 
 This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
+This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
 
 ### Project idea 1 (Explainable AI)
 
