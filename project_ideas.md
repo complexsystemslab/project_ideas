@@ -638,7 +638,13 @@ How to Build the Virtual Cell with Artificial Intelligence: Priorities and Oppor
 
 https://arxiv.org/pdf/2409.11654
 
+### Open-ended play in agents
 
+Extend the framework in the following paper:
+
+Open-Ended Learning Leads to Generally Capable Agents
+
+https://arxiv.org/pdf/2107.12808
 
 <!--
 ### Project idea 10 (Computational Biology)
