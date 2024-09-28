@@ -68,11 +68,11 @@ It has been suggested that large language models cannot reason. This project wil
 
 We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
 
-We can also apply large language models to reasoning in math problems.
+We will also apply large language models and visual language models to these problems.
 
 This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
-This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
+This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
 
 ### Project idea 1 (Explainable AI)
 
