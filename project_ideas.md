@@ -105,8 +105,7 @@ This project will involve developing novel explainable AI algorithms, LLMs and g
 
 The student will work closely with a clinician and psychiatrist and work on real data. The student will learn skills on how to work in an inter-disciplinary manner. This work would have real work impact and will help patients with mental illnesses.
 
-This is work in collaboration with Dr. Anna Moore Winter.
-
+This is work in collaboration with a clinician.
 
 
 <!--
