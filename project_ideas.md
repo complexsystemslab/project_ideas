@@ -268,8 +268,13 @@ This would be an explainable AI model for a complex model of a physical system.
 
 The project would involve building a model that would generate insights from these complex systems (an artificial model of human creativity).
 
-There is also scope to use large-language models in this project.
+This project will use large-language models.
 
+For example, LLMs can be used to generate hypotheses or a concept library:
+
+Symbolic Regression with a Learned Concept Library
+
+https://arxiv.org/pdf/2409.09359
 
 ### Project idea 5B (Automated Scientific Discovery)
   
@@ -328,12 +333,13 @@ Other ideas include discovering ordinary differential equations from data
 https://arxiv.org/abs/2211.02830#
 
 
+<!--
 These techniques can also be applied to healthcare data (for example, data from smartwatches). This would be an AI applied to healthcare project (jointly with Dr. Abhirup Ghosh). 
 
 An example dataset can be the following:
 
 https://www.physionet.org/content/wearable-exam-stress/1.0.0/
-
+-->
 
 ### Project idea (Collective intelligence in AI)
 
