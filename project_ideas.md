@@ -178,6 +178,9 @@ and models of ecosystems
 
 https://gitlab.com/ecotwin/
 
+The project can also use this framework for agentic AI:
+
+https://github.com/autogen-ai/autogen
 
 ### Project idea (Explainable neural cellular automata applied to biology [computational biology project])
 
