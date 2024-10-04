@@ -74,6 +74,12 @@ This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
 This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
 
+## LLMs combined with symbolic AI approaches
+
+Grounded physical language understanding with probabilistic programs and simulated worlds
+
+https://nesygems.github.io/assets/pdf/papers/Grounded.pdf
+
 ### Project idea 1 (Explainable AI)
 
 * Contemporary approaches towards explainable AI are model-centric. We will use data-centric approaches to explain the complex interplay between data and models. This will build on and extend published work [1]. This project will be ideal for a student with interest in machine learning and who has coding experience. 
