@@ -74,11 +74,22 @@ This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
 This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
 
-## LLMs combined with symbolic AI approaches
+## LLMs combined with hybrid AI approaches
+
+* Symbolic AI
 
 Grounded physical language understanding with probabilistic programs and simulated worlds
 
 https://nesygems.github.io/assets/pdf/papers/Grounded.pdf
+
+* World models in AI combined with LLMs
+
+Learning to Model the World With Language
+
+https://arxiv.org/pdf/2308.01399
+
+
+
 
 ### Project idea 1 (Explainable AI)
 
