@@ -654,6 +654,10 @@ https://royalsocietypublishing.org/doi/full/10.1098/rsos.231393
 
 A project to explain large-language models (LLMs) using prompt engineering based on class-contrastive counterfactuals [1,2]. This is a joint project with Prof. Pietro Lio.
 
+This work will build on previous work. We will apply explainable AI techniques to explain black-box models such as LLMs. Techniques can include work such as the one shown below and previously published work [1]:
+
+https://www.nature.com/articles/s41467-024-51970-x
+
 
 ### Building an AI powered virtual cell
 
