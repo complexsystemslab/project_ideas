@@ -18,6 +18,33 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 ## Projects 
 
+### Reasoning and large language models
+ 
+ Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
+ 
+   https://github.com/fchollet/ARC
+
+ Abstraction and Reasoning Corpus Challenge
+
+   https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
+
+   https://github.com/alejandrodemiquel/ARC_Kaggle
+
+It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
+
+We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
+
+We will also apply large language models and large vision models/multimodal models to these problems.
+
+This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
+
+This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!). Please get in touch if you want good papers from your project. We have published a previous version of this project in a very good journal.
+
+For more information, please contact me and read the preprint below:
+
+https://arxiv.org/pdf/2402.03507
+
+
 ### Project idea (Embodied AI and robotics and large language models)
 
 This project will explore the use of large language models (LLMs) and a simple robot to explore the idea of embodied intelligence. We will also explore the idea of a mirror test in robots. 
@@ -52,27 +79,6 @@ Natural language societies of mind
 https://arxiv.org/abs/2305.17066
 
 
-### Reasoning and large language models
- 
- Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
- 
-   https://github.com/fchollet/ARC
-
- Abstraction and Reasoning Corpus Challenge
-
-   https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
-
-   https://github.com/alejandrodemiquel/ARC_Kaggle
-
-It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
-
-We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
-
-We will also apply large language models and visual language models to these problems.
-
-This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
-
-This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!).
 
 ## LLMs combined with hybrid AI approaches
 
