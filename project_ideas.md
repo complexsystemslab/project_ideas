@@ -44,6 +44,7 @@ For more information, please contact me and read the preprint below:
 
 https://arxiv.org/pdf/2402.03507
 
+More than one student will be accepted to work on this project (there are multiple project ideas on this topic).
 
 ### Project idea (Embodied AI and robotics and large language models)
 
