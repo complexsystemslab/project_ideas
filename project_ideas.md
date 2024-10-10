@@ -38,7 +38,7 @@ We will also apply large language models and large vision models/multimodal mode
 
 This will be a collaboration with Mikel Bober-Irizar and Kiril Bikov.
 
-This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!). Please get in touch if you want good papers from your project. We have published a previous version of this project in a very good journal.
+This project will lead to a big publication and the student will be given funding to travel to top conferences and present their work. Please apply if you want a publication in a good venue from your MPhil project (this will help you with your PhD applications!). Please get in touch if you want good papers from your project. We have published a previous version of this project in a very good journal and conference (Nature Scientific Report [in press] and a NeurIPS workshop).
 
 For more information, please contact me and read the preprint below:
 
