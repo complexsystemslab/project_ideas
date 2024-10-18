@@ -300,6 +300,11 @@ Symbolic Regression with a Learned Concept Library
 
 https://arxiv.org/pdf/2409.09359
 
+Other ideas include modelling all the steps of scientific disovery (ideation, hypothesis formation, etc) using agentic LLMs:
+
+https://allenai.github.io/discoveryworld/
+
+
 ### Project idea 5B (Automated Scientific Discovery)
   
 This is a project on automatically discovering scientific laws (like Kepler's Law) and invariants (like Boyle's Law) from data.  This will enable us to automatically discover conservation laws from data.
