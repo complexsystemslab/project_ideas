@@ -687,6 +687,11 @@ Open-Ended Learning Leads to Generally Capable Agents
 
 https://arxiv.org/pdf/2107.12808
 
+
+### Training LLMs for computer use
+
+https://os-world.github.io/
+
 <!--
 ### Project idea 10 (Computational Biology)
 
