@@ -66,6 +66,13 @@ Scaling Instructable Agents Across Many Simulated Worlds
 
 https://arxiv.org/pdf/2404.10179
 
+### Benchmarks for Embodied Reasoning in LLMs
+
+A LITTLE LESS CONVERSATION, A LITTLE MORE ACTION, PLEASE: INVESTIGATING THE PHYSICAL COMMON-SENSE OF LLMS IN A 3D EMBODIED ENVIRONMENT
+
+https://arxiv.org/pdf/2410.23242
+
+
 
 ### Embodied Cognition
 
