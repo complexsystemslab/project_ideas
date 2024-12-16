@@ -699,6 +699,14 @@ https://arxiv.org/pdf/2107.12808
 
 https://os-world.github.io/
 
+### Other projects
+
+Bongard problems solve with vision models
+
+Cellular automata using transformers
+
+
+
 <!--
 ### Project idea 10 (Computational Biology)
 
