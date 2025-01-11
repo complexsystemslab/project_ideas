@@ -27,7 +27,14 @@ Automating the Search for Artificial Life with Foundation Models
 
 https://arxiv.org/abs/2412.17799
 
-### Reasoning and large language models
+### Reasoning and large language models project 1
+
+Build LLMs to work on SimpleBench
+
+https://simple-bench.com/
+
+### Reasoning and large language models project 2
+
  
  Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
  
