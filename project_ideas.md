@@ -27,6 +27,16 @@ Automating the Search for Artificial Life with Foundation Models
 
 https://arxiv.org/abs/2412.17799
 
+### Multi-agent systems for automated science
+
+Building multi-agent systems and generative AI systems for automated science.
+
+Look at:
+
+https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_demo.ipynb
+
+
+
 ### Reasoning and large language models project 1
 
 Build LLMs to work on SimpleBench
