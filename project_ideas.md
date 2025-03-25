@@ -36,6 +36,23 @@ Look at:
 https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_demo.ipynb
 
 
+### Large-language models for designing better jet engines
+
+Use an LLM to perform multi-objective optimization for adaptive flow jet engines
+
+https://www.mdpi.com/2226-4310/10/10/858
+
+### AI safety
+
+Evaluate LLMs for AI safety looking at applications in healthcare, space and nuclear domains
+
+Automated early warning indicators for unsafe usage of LLMs.
+
+https://www.earthdata.nasa.gov/news/blog/ethics-large-language-models-who-controls-future-open-science
+
+NASA - National Aeronautics and Space Administration report about why you can't use LLMs to generate safety/assurance cases
+
+https://www.linkedin.com/feed/update/urn:li:activity:7309730788286124032/
 
 ### Reasoning and large language models project 1
 
