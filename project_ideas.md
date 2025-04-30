@@ -29,9 +29,13 @@ https://arxiv.org/abs/2412.17799
 
 ### Multi-agent systems for automated science
 
-Building multi-agent systems and generative AI systems for automated science.
+Building multi-agent systems and generative AI systems for automated science. 
+
+We will also look at applying these frameworks to other sectors (such as finance, economics, defence, environment, policy, etc.)
 
 Look at:
+
+https://github.com/CMBAgents/cmbagent
 
 https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_demo.ipynb
 
