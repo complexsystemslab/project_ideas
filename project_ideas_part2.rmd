@@ -39,6 +39,7 @@ https://github.com/CMBAgents/cmbagent
 
 https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_demo.ipynb
 
+https://www.aisi.gov.uk/work/long-form-tasks
 
 ### Large-language models for designing better jet engines
 
