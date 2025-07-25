@@ -41,6 +41,8 @@ https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_de
 
 https://arxiv.org/pdf/2507.07257
 
+https://www.aisi.gov.uk/work/long-form-tasks
+
 ### Large-language models for designing better jet engines
 
 Use an LLM to perform multi-objective optimization for adaptive flow jet engines
