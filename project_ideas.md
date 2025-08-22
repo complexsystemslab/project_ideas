@@ -95,6 +95,10 @@ https://arxiv.org/pdf/2402.03507
 
 More than one student will be accepted to work on this project (there are multiple project ideas on this topic).
 
+### Animal AI reasoning and reasoning in AI agents
+
+https://github.com/Kinds-of-Intelligence-CFI/animal-ai
+
 ### Project idea (Embodied AI and robotics and large language models)
 
 This project will explore the use of large language models (LLMs) and a simple robot to explore the idea of embodied intelligence. We will also explore the idea of a mirror test in robots. 
