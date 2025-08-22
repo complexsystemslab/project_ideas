@@ -43,6 +43,24 @@ https://arxiv.org/pdf/2507.07257
 
 https://www.aisi.gov.uk/work/long-form-tasks
 
+
+### Theory of mind for large-language models
+
+
+What architectures and training regimes produce robust emergent Theory of Mind (ToM) among LLMs? 
+
+Read the paper: “I apologize for my actions”: Emergent Properties of Generative Agents and Implications for a Theory of Mind
+
+
+https://osf.io/preprints/osf/8nzsm_v1
+
+Theory of Mind benchmark for large language models
+
+https://arxiv.org/abs/2402.06044
+
+https://github.com/seacowx/OpenToM
+
+
 ### Large-language models for designing better jet engines
 
 Use an LLM to perform multi-objective optimization for adaptive flow jet engines
@@ -612,14 +630,6 @@ This project will use mechanistic interpretability to explain LLMs.
 
 
 
-
-### Theory of mind for large-language models
-
-Theory of Mind benchmark for large language models
-
-https://arxiv.org/abs/2402.06044
-
-https://github.com/seacowx/OpenToM
 
 
 ### Multi-agent collaboration with LLMs
