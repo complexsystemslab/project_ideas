@@ -61,6 +61,8 @@ https://arxiv.org/abs/2402.06044
 https://github.com/seacowx/OpenToM
 
 
+### Multi-modal LLMs for life sciences
+
 ### Large-language models for designing better jet engines
 
 Use an LLM to perform multi-objective optimization for adaptive flow jet engines
