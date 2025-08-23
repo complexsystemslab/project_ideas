@@ -90,7 +90,7 @@ https://simple-bench.com/
 ### Reasoning and large language models project 2
 
  
- Build a large language model to solve the Abstraction and Reasoning Corpus Challenge
+ Build a large language model and agents to solve the Abstraction and Reasoning Corpus Challenge
  
    https://github.com/fchollet/ARC
 
@@ -101,6 +101,10 @@ https://simple-bench.com/
    https://github.com/alejandrodemiquel/ARC_Kaggle
 
 It has been suggested that large language models cannot reason. This project will infuse some reasoning/priors into large language models and apply them to a large reasoning corpus (Abstraction and Reasoning Corpus). 
+
+We will also build agents to solve the ARC-AGI 3.0 challenge.
+
+https://arcprize.org/arc-agi/3/
 
 We will also augment human performance with LLMs (by using a recent database of how humans solve ARC problems).
 
