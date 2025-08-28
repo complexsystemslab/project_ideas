@@ -27,6 +27,11 @@ Automating the Search for Artificial Life with Foundation Models
 
 https://arxiv.org/abs/2412.17799
 
+
+### Foundation models for health
+
+Building multi modal foundation models for health (electronic healthcare records data, omics data, etc.)
+
 ### Multi-agent systems for automated science
 
 Building multi-agent systems, generative agents and generative AI systems for automated science. 
@@ -62,6 +67,26 @@ https://github.com/seacowx/OpenToM
 
 
 ### Multi-modal LLMs for life sciences
+
+
+
+### Foundation models and chatbots for mental health
+
+
+
+PROJECT1 
+
+Recovery from mental health conditions comes in different shapes and sizes; spanning over months or even decades. However, due to long waiting times and increasing workloads, such continuous care is often unattainable within traditional healthcare systems, especially in low- and middle-income countries where resources are limited and stigma remains high. Recent advancements in generative AI have shown significant promise in addressing these gaps by offering scalable, personalized, and empathetic support tools. These technologies have been successfully applied to mental health care through therapeutic chatbots, psychoeducational tools, and emotional support systems. 
+
+Building on these developments, we propose a multi-agent generative AI system to offer recovery stories to the readers which could help individuals feel supported and empathized. Our system would have three core components: (1) a research-focused agent that analyses user input and recommends publicly available stories—both fictional and non-fictional—that resonate with the user’s query; (2) a content critic agent that ensures the recommended material is filtered for harmful or triggering elements and gives a warning if something like this is  present; and (3) a presentation agent that delivers the stories in a safe and emotionally sensitive manner. This system aims to provide users with relatable, hopeful narratives that support their recovery journey while maintaining safety and ethical integrity. At the conclusion of the project, there is possibility of hosting a workshop involving individuals with lived experience of mental illness to gather feedback and explore future directions for co-designed storytelling tools.  
+
+
+PROJECT2 
+
+Recent advancements in artificial intelligence, and more specifically in generative AI, have demonstrated significant potential in providing scalable, personalized, and empathetic support tools. These technologies have been effectively applied to mental health care through therapeutic chatbots, psychoeducational platforms, and emotionally intelligent systems that foster resilience and self-awareness. Building on these developments, we propose a conversational AI companion powered by multi-agent LLM architecture, including a semantic reasoning agent, a content-alignment module, and a generative engine. The goal is not to diagnose or treat, but to empower individuals with a digital partner that encourages purposeful living. 
+
+Project in collaboration with Shrankhla Pandey.
+
 
 ### Large-language models for designing better jet engines
 
