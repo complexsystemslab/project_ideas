@@ -66,6 +66,19 @@ https://arxiv.org/abs/2402.06044
 https://github.com/seacowx/OpenToM
 
 
+
+
+
+### Agentic AI for Enterprise Data Management (working with VULQAN.ai)
+
+Work with VULQAN.ai (https://www.vulqan.ai), an NYC-based AI startup, on building agentic AI systems that transform fragmented enterprise data models into unified ontologies or "Logical Data Models". The project builds on prior Cambridge research reframing Text-to-SQL as a knowledge representation problem, showing that semantic abstraction layers significantly boost LLM accuracy on messy, real-world enterprise schemas. Students will work with team members on a multi-agent framework for abstracting objects, deduping variables, inferring relationships, normalizing lists, and aligning data structures to a consistent semantic layer that can be reasoned over by LLMs. The system will be benchmarked on live use cases from global enterprises.
+
+Consider this project if you are interested in applied AI, LLMs, knowledge graphs, and enterprise data engineering, and want hands-on experience with a fast-growth AI startup. 
+
+Your research will be co-supervised by Sara Mani Kapoor (VULQAN.ai), with opportunities for publication and for conversion to an internship or full time position at VULQAN.ai after dissertation submission.
+
+
+
 ### Multi-modal LLMs for life sciences
 
 
