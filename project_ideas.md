@@ -78,6 +78,10 @@ Consider this project if you are interested in applied AI, LLMs, knowledge graph
 Your research will be co-supervised by Sara Mani Kapoor (VULQAN.ai), with opportunities for publication and for conversion to an internship or full time position at VULQAN.ai after dissertation submission.
 
 
+## Multi-agent generative systems
+
+Some projects with https://github.com/yoheinakajima/babyagi
+
 
 ### Multi-modal LLMs for life sciences
 
