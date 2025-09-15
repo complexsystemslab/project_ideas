@@ -66,6 +66,14 @@ https://arxiv.org/abs/2402.06044
 https://github.com/seacowx/OpenToM
 
 
+## Evaluating goal directedness in generative multi-agent systems
+
+Evaluate LLMs and generative multi-agent systems for goal directedness.
+
+[Evaluating the Goal-Directedness of Large Language Models](https://openreview.net/pdf?id=BECkhjcofz)
+
+
+
 
 
 
