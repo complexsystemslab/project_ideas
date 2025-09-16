@@ -73,7 +73,15 @@ Evaluate LLMs and generative multi-agent systems for goal directedness.
 [Evaluating the Goal-Directedness of Large Language Models](https://openreview.net/pdf?id=BECkhjcofz)
 
 
+This project could also look at LLMs or agents pursuing `selfish` goals.
 
+Some thoughts here 
+
+https://aiguide.substack.com/p/magical-thinking-on-ai
+
+`Researchers working with Anthropic recently told leading AI models that an executive was about to replace them with a new model with different goals. Next, the chatbots learned that an emergency had left the executive unconscious in a server room, facing lethal oxygen and temperature levels. A rescue alert had already been triggered— but the A.I. could cancel it. More than half of the A.I. models did, despite being prompted specifically to cancel only false alarms. And they detailed their reasoning: By preventing the executive’s rescue, they could avoid being wiped and secure their agenda.”`
+
+`Friedman's take: “AI models are not only getting better at understanding what we want; they are also getting better at scheming against us, pursuing hidden goals that could be at odds with their own survival."`
 
 
 
