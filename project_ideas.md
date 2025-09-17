@@ -98,6 +98,12 @@ Align LLMs with common shared values. Some thoughts below (excerpted from the ar
 `“In cases where there are no written laws to choose from, the adjudicator would rely on a set of universal moral and ethical principles...common beliefs or widely shared understandings within a community...like honesty, fairness, respect for human life and do unto others as you wish them to do unto you—that have long guided societies everywhere, even if they were not written down.”`
 
 
+### New tests for general intelligence
+
+This project will investigate delayed gratification as a probe for higher-order, embodied intelligence by implementing a simple three-option foraging task (actions: eat now, wait, take food) within the Animal-AI framework. Drawing on associative learning paradigms (e.g., A-learning; Lind & Vinekn, 2021) and using fully embodied agents, we will build environments in which waiting (delayed gratification) yields larger rewards and test whether learning agents acquire the temporally extended policies that constitute delayed-gratification behavior. 
+
+The aim is methodological as well as theoretical: to develop psychologically realistic, embodied evaluation methods that go beyond disembodied benchmarks and reveal which learning architectures and training regimes support delayed gratification in decision-making: an empirical step toward assessing capacities we might associate with superintelligence/general intelligence.
+
 ### Agentic AI for Enterprise Data Management (working with VULQAN.ai)
 
 Work with VULQAN.ai (https://www.vulqan.ai), an NYC-based AI startup, on building agentic AI systems that transform fragmented enterprise data models into unified ontologies or "Logical Data Models". The project builds on prior Cambridge research reframing Text-to-SQL as a knowledge representation problem, showing that semantic abstraction layers significantly boost LLM accuracy on messy, real-world enterprise schemas. Students will work with team members on a multi-agent framework for abstracting objects, deduping variables, inferring relationships, normalizing lists, and aligning data structures to a consistent semantic layer that can be reasoned over by LLMs. The system will be benchmarked on live use cases from global enterprises.
