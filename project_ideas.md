@@ -85,6 +85,17 @@ https://www.anthropic.com/research/agentic-misalignment
 
 `Friedman's take: “AI models are not only getting better at understanding what we want; they are also getting better at scheming against us, pursuing hidden goals that could be at odds with their own survival."`
 
+Align LLMs with common shared values. Some thoughts below (excerpted from the article above)
+
+`to embed a common ethical architecture into every AI-enabled device that either nation builds.”`
+
+`What would this “common ethical architecture” do? “Think of it as an internal referee that evaluates whether any action, human-initiated or machine-driven, passes a universal threshold for safety, ethics and human well-being before it can be executed. That would give us a basic level of pre-emptive alignment in real time, at digital speed.”`
+
+`Who would determine this “universal threshold for safety, ethics, and human well-being”? Friedman proposes starting with “the positive laws that every country has mandated—we all outlaw stealing, cheating, murder, identity theft, defrauding.... [T]he AI ‘referee’ would be entrusted with evaluating any decision on the basis of these written laws.... [This system] would ensure that each nation’s basic laws are the first filter for determining that the system will do no harm.”`
+
+`What about all the norms and expected behaviors that are not encoded into law?`
+
+`“In cases where there are no written laws to choose from, the adjudicator would rely on a set of universal moral and ethical principles...common beliefs or widely shared understandings within a community...like honesty, fairness, respect for human life and do unto others as you wish them to do unto you—that have long guided societies everywhere, even if they were not written down.”`
 
 
 ### Agentic AI for Enterprise Data Management (working with VULQAN.ai)
