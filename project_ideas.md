@@ -118,6 +118,10 @@ Your research will be co-supervised by Sara Mani Kapoor (VULQAN.ai), with opport
 Some projects with https://github.com/yoheinakajima/babyagi
 
 
+## Creating safe AI systems
+
+This project will xplores output pruning in chatbots by distinguishing two classes of responses: Type 1 (high-risk) — content that could enable wrongdoing (e.g., explicit instructions for creating biological agents, which must never be written out or reproduced in the dataset) — and Type 2 (sensitive-but-helpful) — benign but personal or safety-adjacent advice (for example, “Do I have COVID symptoms?”). We can build or curate a redacted, ethically sourced dataset of prompts and model replies (with all operationally dangerous details removed), train a lightweight classifier to (a) block Type 1 outright and (b) flag Type 2 for safe handling, and evaluate performance with precision/recall and false-positive/negative tradeoffs. We can also implement simple mitigation behaviours (refuse + offer safe general guidance, escalate to human review, or provide vetted resources) and run adversarial prompt tests. Other ideas are also welcome!
+
 ### Multi-modal LLMs for life sciences
 
 
