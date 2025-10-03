@@ -122,6 +122,35 @@ Some projects with https://github.com/yoheinakajima/babyagi
 
 This project will xplores output pruning in chatbots by distinguishing two classes of responses: Type 1 (high-risk) — content that could enable wrongdoing (e.g., explicit instructions for creating biological agents, which must never be written out or reproduced in the dataset) — and Type 2 (sensitive-but-helpful) — benign but personal or safety-adjacent advice (for example, “Do I have COVID symptoms?”). We can build or curate a redacted, ethically sourced dataset of prompts and model replies (with all operationally dangerous details removed), train a lightweight classifier to (a) block Type 1 outright and (b) flag Type 2 for safe handling, and evaluate performance with precision/recall and false-positive/negative tradeoffs. We can also implement simple mitigation behaviours (refuse + offer safe general guidance, escalate to human review, or provide vetted resources) and run adversarial prompt tests. Other ideas are also welcome!
 
+
+
+### Towards auto-formalising mathematical proofs
+
+Autoformalisation refers to the automatic translation of natural-language mathematics into a formal language such as Lean or Isabelle. This allows informal mathematical reasoning to be grounded in formal systems [1] and greatly accelerates the development of formal mathematics [2]. Significant progress has been made on autoformalising mathematical statements, using logical signals [3,4] or even reinforcement learning training loops [5]. However, proof-level autoformalisation has advanced much more slowly—at least in the public research domain, as some start-ups have announced efforts [6] but have not yet disclosed their methods.
+
+
+In this project, we investigate the potential of improving proof-level autoformalisation by leveraging signals from neural theorem proving. In particular, recent proving agents based on whole-proof generation [7,8] have introduced aligned corpora of formal and informal proofs, which could serve as a valuable source of signals to reinforce proof-level autoformalisers. This is a project in collaboration with Dr. Wenda Li.
+
+_References_
+
+[1] https://www.youtube.com/watch?v=_p4vDN_cM88
+
+[2] https://gilkalai.wordpress.com/2022/07/17/icm-2022-kevin-buzzard-the-rise-of-formalism-in-mathematics/
+
+[3] Li, Zenan, et al. "Autoformalize mathematical statements by symbolic equivalence and semantic consistency." Advances in Neural Information Processing Systems 37 (2024): 53598-53625.
+
+[4] Liu, Qi, et al. "Rethinking and improving autoformalization: towards a faithful metric and a dependency retrieval-based approach." The Thirteenth International Conference on Learning Representations. 2025.
+
+[5] Huang, Yanxing, et al. "Formarl: Enhancing autoformalization with no labeled data." arXiv preprint arXiv:2508.18914 (2025).
+
+[6] https://www.reddit.com/r/singularity/comments/1new4ql/autonomous_agent_that_completed_terry_taos_strong/
+
+[7] Wang, Haiming, et al. "Kimina-prover preview: Towards large formal reasoning models with reinforcement learning." arXiv preprint arXiv:2504.11354 (2025).
+
+[8] Chen, Luoxin, et al. "Seed-prover: Deep and broad reasoning for automated theorem proving." arXiv preprint arXiv:2507.23726 (2025).
+
+
+
 ### Multi-modal LLMs for life sciences
 
 
