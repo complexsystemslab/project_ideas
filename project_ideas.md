@@ -28,6 +28,18 @@ Automating the Search for Artificial Life with Foundation Models
 https://arxiv.org/abs/2412.17799
 
 
+### Evolving modular robots
+
+Evolve modular robots using reinforcement learning +  genAI
+
+https://github.com/FrankVeenstra/EvolvingModularRobots_Unity
+
+### Foundation models for human behaviour
+
+Simulate human behaviour using foundation models
+
+https://www.nature.com/articles/s41598-024-55903-y
+
 ### Foundation models for health
 
 Building multi modal foundation models for health (electronic healthcare records data, omics data, etc.)
