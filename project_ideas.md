@@ -52,6 +52,8 @@ We will also look at applying these frameworks to other sectors (such as finance
 
 Look at:
 
+https://github.com/AstroPilot-AI/Denario
+
 https://github.com/CMBAgents/cmbagent
 
 https://github.com/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_beta2_demo.ipynb
