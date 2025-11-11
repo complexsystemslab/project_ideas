@@ -27,6 +27,15 @@ Automating the Search for Artificial Life with Foundation Models
 
 https://arxiv.org/abs/2412.17799
 
+### Integrating large-language models with symbolic models
+
+Integrating LLMs with knowledge bases (KBs) such as `OpenCyc`
+
+Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation, Kevin Zhao, Ken Forbus
+
+http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
+
+
 
 ### Evolving modular robots
 
