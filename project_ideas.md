@@ -4,11 +4,10 @@
 
 Soumya Banerjee 
 
-Senior Research Fellow and Affiliated Lecturer
+Senior Lecturer
 
-University of Cambridge, Cambridge, United Kingdom 
 
-∗ E-mail: sb2333@cam.ac.uk neel.soumya@gmail.com
+∗ E-mail: neel.soumya@gmail.com
 
 Office: FC01 (first floor) in the computer science department
 
@@ -34,6 +33,34 @@ Integrating LLMs with knowledge bases (KBs) such as `OpenCyc`
 Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation, Kevin Zhao, Ken Forbus
 
 http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
+
+
+### Responsible AI
+
+1. **Can AI internalize human morality?**
+   **Objective:** Investigate whether AI systems can form and apply moral judgments that reflect human values.
+   **Skills & methods:** Survey design, crowdsourced data collection, statistical analysis, and moral choice theory.
+
+2. **Co-developing a taxonomy of AI risks**
+   **Objective:** Build a grounded classification of AI-related risks by collaborating with a variety of stakeholders.
+   **Skills & methods:** Co-design approaches, survey creation, statistical methods, and ethics of AI.
+
+3. **Participatory auditing of AI systems**
+   **Objective:** Create and assess community-driven auditing techniques for evaluating AI behaviour and harms.
+   **Skills & methods:** Survey and experimental design, (web) development, and applied AI ethics.
+
+4. **Visualization tools for responsible decision-making with AI**
+   **Objective:** Design visual interfaces that help stakeholders make informed, responsible choices using AI outputs.
+   **Skills & methods:** HCI, web development, and user-centred research.
+
+5. **AI risks, opportunities, and media analysis at scale**
+   **Objective:** Analyze how news media portray AI — its benefits and dangers — using large-scale text analysis.
+   **Skills & methods:** Large-scale data analysis, natural language processing, and ethical reflection.
+
+6. **AI governance from an organizational lens**
+   **Objective:** Study how institutions govern AI by applying network and organisational analysis techniques.
+   **Skills & methods:** Survey research, large-scale data analysis, and network science.
+
 
 
 
