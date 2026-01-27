@@ -63,6 +63,65 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 
 
+### Small language models (SLMs) for healthcare in Global South
+
+For students are **medics first and programmers second**, the goal is to leverage their domain expertise for **data curation and evaluation** while using "low-code" tools for the actual training.
+
+In the Global South, the primary barriers aren't just lack of doctors; they are **language barriers, medical jargon, and remote triage.** Small Language Models (SLMs) in the 1B–7B parameter range are perfect here because they can run on consumer laptops or cheap cloud instances.
+
+Here are four concrete, small-scale project ideas:
+
+---
+
+## 1. The "Jargon Buster" for Rural Patients
+
+**The Goal:** Fine-tune a model (like **Llama-3.2-3B** or **Phi-3.5-Mini**) to translate complex clinical diagnoses into local cultural metaphors or simplified language (e.g., Swahili, Hindi, or basic English).
+
+* **Medical Task:** Taking a specialist’s note (e.g., *"Patient presents with idiopathic peripheral neuropathy"*) and explaining it as a rural health worker would to a patient (*"Your nerves are feeling weak for reasons we are still checking, like a wire with a loose connection"*).
+* **Student Contribution:** Medics create a "Golden Dataset" of 200–500 pairs of "Doctor Speak" vs. "Patient Speak" tailored to a specific region.
+* **Why it's "Small":** Requires very little data to see a massive improvement in tone and clarity.
+
+## 2. Low-Resource Triage for Community Health Workers
+
+**The Goal:** A decision-support SLM that helps non-doctor health workers in remote areas decide if a patient needs immediate transport to a city hospital.
+
+* **Medical Task:** Input: Symptoms + Vital signs. Output: Triage category (Red/Yellow/Green) and a brief justification based on local resource constraints (e.g., *"Nearest oxygen is 4 hours away; refer now"*).
+* **Dataset:** Use the **NLLB-Seed** (medical subset) or curate 500 examples of WHO Integrated Management of Childhood Illness (IMCI) guidelines.
+* **Technical Fit:** Models like **BioMistral-7B** are already "medical-heavy" and just need a "nudge" via fine-tuning to follow specific triage logic.
+
+## 3. Multilingual "Voice-to-Prescription" Assistant
+
+**The Goal:** A model that takes a messy, spoken-style summary of a consultation in a local dialect and extracts a structured "Prescription & Plan" table.
+
+* **Medical Task:** Converting a 2-minute dictated note into: *Medication | Dosage | Duration | Warnings.*
+* **The "Global South" Twist:** Use **Bhashini** (for India) or **Masakhane** (for Africa) datasets to ensure the model understands local drug brand names and common local units of measurement.
+* **Student Contribution:** Medics act as "Gold Standard" annotators, correcting the model’s drafts to build the fine-tuning set.
+
+## 4. Chronic Disease "Check-in" Bot for SMS/WhatsApp
+
+**The Goal:** A very "thin" model (1B parameters, like **Gemma-2B**) designed to handle follow-up questions for Diabetes or Hypertension via low-bandwidth text.
+
+* **Medical Task:** Answering "What do I do if I missed my Metformin dose?" or "My feet are tingling, is that normal?" based on local clinical protocols.
+* **Dataset:** Use the **NidaanKosh** (Indian diagnostic pattern) dataset or similar public health guidelines.
+* **Technical Fit:** These models are small enough to be deployed on a single $10/month server, making them sustainable for local NGOs.
+
+---
+
+### The "Medic-Friendly" Technical Toolkit
+
+
+1. **Model Selection:** Stick to **Llama-3.2 (1B/3B)** or **Phi-3.5-Mini**. They are incredibly smart for their tiny size.
+2. **Fine-Tuning Tool:** Use **Unsloth** (via Google Colab). It’s a "wrapper" that makes fine-tuning 2x faster and uses 70% less memory. It’s essentially a 10-line Python script where they just point to their dataset.
+3. **Data Generation:** Have the medics use a "Teacher Model" (like GPT-4o) to help them expand their 50 handwritten examples into 500 synthetic examples, which they then manually "audit" for medical accuracy.
+4. **Evaluation:** This is where they shine. Instead of math metrics, have them perform a **"Blind Clinical Review"**—comparing the SLM's output against a human doctor and scoring it on a 1-5 scale for safety and empathy.
+
+### Recommended Datasets (2026 Context)
+
+* **India:** [AIKosh (IndiaAI)](https://aikosh.indiaai.gov.in/) — specifically the **NidaanKosh** lab records.
+* **Africa:** [Lanfrica](https://lanfrica.com/) or **Zindi Africa** health challenges.
+* **General:** **BioMistral** (an open-weight model already specialized for medicine).
+
+
 
 ### Evolving modular robots
 
