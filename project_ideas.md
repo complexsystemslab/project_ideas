@@ -248,6 +248,70 @@ Python, Jupyter/Colab, Flask or Streamlit for a small UI, simple ML libs (scikit
 
 ---
 
+### Low code/no code project ideas for medics (human centered design/HCI)
+
+To design for students with little programming experience, the focus must shift from **back-end engineering** to **interaction design, ethics, and social contextualization.** 
+
+Using a framework of **Low AI (WhatsUp)**, **Co-creative AI (Note Assist)**, and **AI-Intensive (Replika)**. 
+
+These are designed to be built using "no-code" or "low-code" tools (like Voiceflow, Landbot, or simple GPT-wrappers) so students can focus on **Human-Centered Design (HCD)**.
+
+---
+
+### 1. "The Cultural Navigator" (Low AI / Resource-Based)
+
+**Social Context:** First-generation immigrants or refugees navigating a new healthcare system (e.g., the NHS in the UK or Medicare in the US).
+
+* **The Design Challenge:** Often, the barrier isn't just language; it’s a lack of "institutional literacy." Students design a chatbot that explains *how* the system works (e.g., "What is a GP?" or "How do I get a prescription?") using culturally relevant metaphors.
+* **HCD Focus:** Students must interview someone from a different cultural background to understand their specific anxieties and "unwritten rules" of their home healthcare culture.
+* **Tech Level:** Decision-tree logic. No GenAI required—just a well-mapped "knowledge path."
+
+### 2. "Neuro-Transitioner" (Co-creative / Note Assist style)
+
+**Social Context:** Neurodivergent students (ADHD/Autism) transitioning from high school to university life.
+
+* **The Design Challenge:** "Executive function" is the hurdle. The chatbot doesn't just give advice; it helps the student *externalize* their thoughts. The AI suggests a breakdown of a complex medical or academic task (e.g., "Booking a therapy appointment"), and the student edits the steps to fit their energy levels.
+* **HCD Focus:** Students focus on "the agency of the user." How can the AI suggest a plan without being "bossy" or overwhelming?
+* **Tech Level:** Partial GenAI. The student designs prompts that take a goal and turn it into a checklist, which the user then modifies.
+
+### 3. "The Grief Archivist" (AI-Intensive / Replika style)
+
+**Social Context:** Individuals dealing with "ambiguous loss" (e.g., a family member with dementia) or long-term bereavement.
+
+* **The Design Challenge:** A companion designed not to "fix" grief, but to witness it. The user can tell the bot stories about their loved one. The AI uses GenAI to reflect these stories back, helping the user curate a "digital memory book."
+* **HCD Focus:** Ethical guardrails. Students must design the "exit strategy"—how does the bot handle it if the user becomes too dependent or expresses a mental health crisis?
+* **Tech Level:** High GenAI involvement. Focuses on "Persona Design" and "Prompt Engineering" to ensure the bot’s tone is empathetic rather than clinical.
+
+### 4. "Caregiver’s Handover" (Co-creative / Administrative)
+
+**Social Context:** Unpaid family caregivers (e.g., a daughter looking after an elderly parent) who need to communicate with rotating professional nurses.
+
+* **The Design Challenge:** Family caregivers are often exhausted and forget to relay small but vital details to pros. This bot "interviews" the caregiver at the end of their shift and generates a professional-grade "Handover Note" for the visiting nurse.
+* **HCD Focus:** Understanding the "Power Dynamic." How does the bot bridge the gap between a "daughter’s emotional observation" and a "nurse’s clinical requirement"?
+* **Tech Level:** GenAI used for "Style Transfer" (converting casual speech into structured medical observations).
+
+### 5. "Safe-Space Simulator" (Low AI / Roleplay)
+
+**Social Context:** LGBTQ+ youth in restrictive environments who are practicing "coming out" to a healthcare provider or asking for gender-affirming care.
+
+* **The Design Challenge:** A "low-stakes" sandbox. The bot plays the role of a doctor. The user can practice their script. The bot provides feedback not on the *content*, but on how it felt (e.g., "You sounded very confident when you mentioned your symptoms").
+* **HCD Focus:** Designing for "Psychological Safety." Students must research the specific microaggressions this community faces to ensure the "Simulated Doctor" isn't accidentally harmful.
+* **Tech Level:** Scripted logic with "sentiment analysis" triggers.
+
+---
+
+### Pedagogical Tip: The "Social Context" Audit
+
+Students to complete a **"Context Canvas"** before they touch any software:
+
+1. **The Actor:** Who is the user (e.g., an elderly man living alone)?
+2. **The Becoming:** Who does he want to *be*? (e.g., He doesn't want to be a "patient"; he wants to be "independent").
+3. **The AI’s Role:** Is the AI a **Mirror** (Reflecting his thoughts), a **Scaffold** (Supporting his weaknesses), or a **Bridge** (Connecting him to a human doctor)?
+4. **The Friction:** What is one thing the AI **should not** do to preserve the user's dignity?
+
+By framing the project this way, the students are assessed on their **empathy and logic** rather than their ability to write Python code.
+
+
 ### Evolving modular robots
 
 Evolve modular robots using reinforcement learning +  genAI
