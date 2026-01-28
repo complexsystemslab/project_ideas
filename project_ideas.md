@@ -250,6 +250,8 @@ Python, Jupyter/Colab, Flask or Streamlit for a small UI, simple ML libs (scikit
 
 ### Low code/no code project ideas for medics (human centered design/HCI)
 
+The following is inspired by an [HCI course from the University of Washington](https://courses.cs.washington.edu/courses/cse440/26wi/)
+
 To design for students with little programming experience, the focus must shift from **back-end engineering** to **interaction design, ethics, and social contextualization.** 
 
 Using a framework of **Low AI (WhatsUp)**, **Co-creative AI (Note Assist)**, and **AI-Intensive (Replika)**. 
