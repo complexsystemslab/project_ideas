@@ -122,6 +122,131 @@ Here are four concrete, small-scale project ideas:
 * **General:** **BioMistral** (an open-weight model already specialized for medicine).
 
 
+### More ideas
+Pactical, low-math, and runnable with Python + simple web UI or notebooks. Each idea shows a clear undergraduate scope and a natural master’s-level extension.
+
+### Quick notes on common stacks
+
+Python, Jupyter/Colab, Flask or Streamlit for a small UI, simple ML libs (scikit-learn, Hugging Face Transformers for prebuilt models), and basic REST calls to an LLM API (if allowed by your institution) are sufficient. Emphasize reproducibility: notebooks + README + short demo video.
+
+---
+
+### Project ideas (title → short plan, UG scope, MSc extension, tools & deliverables)
+
+1. **Red-Team / Blue-Team Simulator for Prompt Safety**
+
+* What: Build a small web app that lets one team supply “risky” prompts (simulated), and the other team builds simple rule-based / keyword or classifier defenses that block/transform them.
+* UG: Implement rule filters + regex based sanitizer + UI to show blocked prompts.
+* MSc: Add a lightweight classifier (fine-tune a small transformer or use scikit-learn on features) and evaluate precision/recall on a labeled dataset.
+* Tools: Flask/Streamlit, scikit-learn, optionally Hugging Face inference.
+* Deliverable: interactive demo, evaluation table, README.
+
+2. **Output Provenance & Watermark Checker (Text)**
+
+* What: Simulate a watermarking signal and create a detector that flags outputs likely produced by a model vs. human writing.
+* UG: Implement simple statistical features (perplexity via a small LM, n-gram frequency) and a binary classifier.
+* MSc: Implement and evaluate a known watermark detection scheme (simulation) and test robustness to paraphrase/noise.
+* Tools: GPT API (optional), Hugging Face, scikit-learn.
+* Deliverable: notebook with ROC curves, demo.
+
+3. **Adaptive Content Moderation Pipeline**
+
+* What: Build a modular pipeline that takes model output and applies a stack of checks (toxicity, misinformation, private data, policy) and returns an action (pass/flag/transform).
+* UG: Implement two checks (toxicity via a pretrained classifier and profanity regex) and a simple policy engine (if X flagged → block).
+* MSc: Add dynamic throttling (rate limits), contextual scoring, and evaluation on synthetic dataset.
+* Tools: Streamlit UI, small pretrained classifiers.
+* Deliverable: pipeline code + test suite + policy documentation.
+
+4. **“Safe Suggestor” — Provide Non-Harmful Alternatives**
+
+* What: Given a risky user request, generate (or select) safer alternative suggestions framed to satisfy user intent without harm.
+* UG: Create rule-based templates that rewrite/deflect requests into safe alternatives and present options.
+* MSc: Train a seq2seq model (or fine-tune a small model) for rewriting and evaluate semantic similarity vs. safety improvements.
+* Tools: Transformers or API calls, BLEU/ROUGE or embedding similarity for evaluation.
+* Deliverable: demo app + comparison table.
+
+5. **Honeypot Interaction Logger to Study Malicious Prompts (Ethical, Simulated)**
+
+* What: Create a sandboxed interface that logs anonymized interactions labeled by simulated intent categories (no real malicious content; use safe placeholders) to study patterns and triage.
+* UG: Build the interface + logging + simple clustering to surface common patterns.
+* MSc: Add active learning to prioritize which interactions to label or route to human review.
+* Tools: Streamlit/Flask, scikit-learn clustering, SQLite.
+* Deliverable: dataset (synthetic), analysis notebook.
+
+6. **Model Output Robustness Checker (Paraphrase & Noise)**
+
+* What: Test how small edits (typos, paraphrase) to prompts change model outputs; measure how often safety filters fail under perturbation.
+* UG: Implement perturbation functions and run automated tests to compare outputs and flag filter failures.
+* MSc: Design adversarial perturbations (character swaps, synonyms) and measure filter robustness; propose mitigation.
+* Tools: Python text libraries, simple comparators (cosine similarity).
+* Deliverable: robustness report + scripts.
+
+7. **Low-Cost Sandboxing: Policy-Enforced LLM Proxy**
+
+* What: A proxy server sits between client UI and an LLM, enforcing policies (rate limits, prompt length, banned tokens) and logging violations.
+* UG: Implement proxy that redacts banned words and logs calls.
+* MSc: Add dynamic policy updates, role-based access, and analytics dashboards for admins.
+* Tools: FastAPI/Flask, simple SQLite, lightweight dashboard (Plotly or Streamlit).
+* Deliverable: proxy code + deployment instructions.
+
+8. **Synthetic Data Detector for Downstream Classifiers**
+
+* What: Detect whether a training dataset contains synthetic examples (e.g., to prevent poisoning or bias). Students create synthetic data and see if detectors can spot it.
+* UG: Create synthetic samples via a small generator and train a classifier on features (length, punctuation, perplexity).
+* MSc: Explore feature engineering, ensemble detectors, and evaluate detection against paraphrased synthetic data.
+* Tools: scikit-learn, transformers for perplexity estimates.
+* Deliverable: detection notebook + evaluation metrics.
+
+9. **Interactive User Study: How People Perceive Model Safety Interventions**
+
+* What: Design a small experiment (ethics approved) to test how users react when an assistant refuses, deflects, or rewrites a query.
+* UG: Build three UI variants (refuse, deflect politely, give safe alternative), recruit peers, collect qualitative feedback.
+* MSc: Add statistical analysis of usability, sentiment analysis, and recommendations.
+* Tools: Streamlit, Google Forms, basic stats (t-test, chi²).
+* Deliverable: study report + anonymized data.
+
+10. **Explainable Flagging: Why Was This Output Blocked?**
+
+* What: When a moderator blocks model output, produce a short human-readable explanation (policy rule + example) for transparency.
+* UG: Implement mapping from checks to canned explanations and a UI that surfaces them.
+* MSc: Implement natural language explanations generated from features (e.g., “contains sexual content about minors” → provide features that led to block) and evaluate user trust.
+* Tools: Simple templating, optional small model for explanation generation.
+* Deliverable: explanation engine + user test.
+
+11. **Lightweight Threat Score Card for Model Responses**
+
+* What: Compute a composite “threat score” (privacy leakage, toxicity, misinformation risk) for each response and visualize it for moderators.
+* UG: Define 3 metrics, implement scoring rules, and visualize with a dashboard.
+* MSc: Calibrate scores using human annotations, implement weighting learned from data.
+* Tools: Dash/Streamlit, basic scoring functions, human labels collected via classmates.
+* Deliverable: dashboard + scoring rubric.
+
+12. **Policy Update Simulator: How Fast Can a System Adapt?**
+
+* What: Simulate the lifecycle of a safety policy change (e.g., new banned terms) and show propagation delays and failures in a distributed system of proxies/clients.
+* UG: Implement a small mocked ecosystem (3 services) and show configuration propagation.
+* MSc: Add automated tests, rollback strategies, and metrics for consistency and latency.
+* Tools: Docker optional, simple HTTP services in Flask.
+* Deliverable: simulation + analysis.
+
+---
+
+### Grading rubric (suggested)
+
+* Implementation & reproducibility (30%): code runs, clear README, notebook/demo.
+* Evaluation & experiments (30%): datasets, metrics, analysis (precision/recall/ROC or qualitative analysis).
+* Report & reflection (25%): limitations, ethics, safety tradeoffs, extension ideas.
+* Presentation & demo (15%): short live demo or video + slides.
+
+---
+
+### Ethical & safety guidance to give students (very important)
+
+* Use simulated or public, non-sensitive datasets. Don’t craft real harmful prompts or produce actionable wrongdoing content.
+* Obtain quick local ethics approval for any user studies and anonymize all data.
+* Focus on defensive outcomes (detection, robustness, transparency) rather than providing ways to bypass protections.
+
+---
 
 ### Evolving modular robots
 
