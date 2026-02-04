@@ -65,13 +65,26 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 ### Small language models (SLMs) for healthcare in Global South
 
-For students are **medics first and programmers second**, the goal is to leverage their domain expertise for **data curation and evaluation** while using "low-code" tools for the actual training.
+For students who are **medics first and programmers second**, the goal is to leverage their domain expertise for **data curation and evaluation** while using "low-code" tools for the actual training.
 
 In the Global South, the primary barriers aren't just lack of doctors; they are **language barriers, medical jargon, and remote triage.** Small Language Models (SLMs) in the 1B–7B parameter range are perfect here because they can run on consumer laptops or cheap cloud instances.
 
-Here are four concrete, small-scale project ideas:
+Here are five concrete, small-scale project ideas:
 
 ---
+
+## Small language models and dashboards
+
+- Dashboards and visualizations for visualizing AI risk holistically (Global South). Integrate risk from various sources (climate, geopolitical, financial, etc.)
+- Chatbots to create AI healthcare strategies for the Global South. These would be Small Language Models (SLMs). Use `Unsloth` to build an SLM.
+
+- Unsloth (via Google Colab)
+
+- [Tutorial on Unsloth](https://unsloth.ai/docs/get-started/install/google-colab)
+
+- [Tutorial on using Unsloth to finetune](https://www.youtube.com/watch?v=iAlAWRVAiCg)
+
+
 
 ## 1. The "Jargon Buster" for Rural Patients
 
