@@ -4,7 +4,7 @@
 
 Soumya Banerjee 
 
-Senior Lecturer
+Lecturer
 
 
 ∗ E-mail: neel.soumya@gmail.com
@@ -73,7 +73,7 @@ Here are five concrete, small-scale project ideas:
 
 ---
 
-## Small language models and dashboards
+## 1. Small language models and dashboards
 
 - Dashboards and visualizations for visualizing AI risk holistically (Global South). Integrate risk from various sources (climate, geopolitical, financial, etc.)
 - Chatbots to create AI healthcare strategies for the Global South. These would be Small Language Models (SLMs). Use `Unsloth` to build an SLM.
@@ -84,9 +84,10 @@ Here are five concrete, small-scale project ideas:
 
 - [Tutorial on using Unsloth to finetune](https://www.youtube.com/watch?v=iAlAWRVAiCg)
 
+- [Kakugo: Small language models for low resource languages](https://arxiv.org/pdf/2601.14051)
 
 
-## 1. The "Jargon Buster" for Rural Patients
+## 2. The "Jargon Buster" for Rural Patients
 
 **The Goal:** Fine-tune a model (like **Llama-3.2-3B** or **Phi-3.5-Mini**) to translate complex clinical diagnoses into local cultural metaphors or simplified language (e.g., Swahili, Hindi, or basic English).
 
@@ -94,7 +95,7 @@ Here are five concrete, small-scale project ideas:
 * **Student Contribution:** Medics create a "Golden Dataset" of 200–500 pairs of "Doctor Speak" vs. "Patient Speak" tailored to a specific region.
 * **Why it's "Small":** Requires very little data to see a massive improvement in tone and clarity.
 
-## 2. Low-Resource Triage for Community Health Workers
+## 3. Low-Resource Triage for Community Health Workers
 
 **The Goal:** A decision-support SLM that helps non-doctor health workers in remote areas decide if a patient needs immediate transport to a city hospital.
 
@@ -102,7 +103,7 @@ Here are five concrete, small-scale project ideas:
 * **Dataset:** Use the **NLLB-Seed** (medical subset) or curate 500 examples of WHO Integrated Management of Childhood Illness (IMCI) guidelines.
 * **Technical Fit:** Models like **BioMistral-7B** are already "medical-heavy" and just need a "nudge" via fine-tuning to follow specific triage logic.
 
-## 3. Multilingual "Voice-to-Prescription" Assistant
+## 4. Multilingual "Voice-to-Prescription" Assistant
 
 **The Goal:** A model that takes a messy, spoken-style summary of a consultation in a local dialect and extracts a structured "Prescription & Plan" table.
 
@@ -120,7 +121,7 @@ Here are five concrete, small-scale project ideas:
 
 ---
 
-### The "Medic-Friendly" Technical Toolkit
+### 5. The "Medic-Friendly" Technical Toolkit
 
 
 1. **Model Selection:** Stick to **Llama-3.2 (1B/3B)** or **Phi-3.5-Mini**. They are incredibly smart for their tiny size.
@@ -136,7 +137,7 @@ Here are five concrete, small-scale project ideas:
 
 
 ### More ideas
-Pactical, low-math, and runnable with Python + simple web UI or notebooks. Each idea shows a clear undergraduate scope and a natural master’s-level extension.
+Practical, low-math, and runnable with Python + simple web UI or notebooks. Each idea shows a clear undergraduate scope and a natural master’s-level extension.
 
 ### Quick notes on common stacks
 
