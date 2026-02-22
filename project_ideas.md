@@ -380,6 +380,11 @@ https://arxiv.org/abs/2402.06044
 https://github.com/seacowx/OpenToM
 
 
+## Evaluations and benchmarks for morality in AI
+
+[A roadmap for evaluating moral competence in large language models](https://www.nature.com/articles/s41586-025-10021-1)
+
+
 ## Evaluating goal directedness in generative multi-agent systems
 
 Evaluate LLMs and generative multi-agent systems for goal directedness.
