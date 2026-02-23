@@ -1,11 +1,10 @@
-Below is a **draft FindAPhD listing** modelled closely on the structure and tone of listings on FindAPhD, but tailored to your research area and the NHS/XAI theme. You can edit the university name, supervisors, and facilities details.
-
----
 
 # PhD in Explainable Artificial Intelligence for Healthcare: Interpretable Machine Learning on NHS Data
 
 **[Your University Name] – Department of Computer Science / AI / Data Science**
-**Dr [Your Name]**
+**Dr Soumya Banerjee **
+
+[Website](https://neelsoumya.github.io/)
 
 Applications accepted all year round
 Self-Funded PhD Students Only
