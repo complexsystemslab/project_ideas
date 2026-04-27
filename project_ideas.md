@@ -35,6 +35,14 @@ Integrating Symbolic Natural Language Understanding and Language Models for Word
 http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 
+### Society of AI agents and problem solving in science/math
+
+- Study society of AI agents in Moltbook
+
+- Emergence of proto-consciousness
+
+- Imbue them with different personas and solve mathematical problems
+
 ### Responsible AI
 
 1. **Can AI internalize human morality?**
