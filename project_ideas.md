@@ -43,6 +43,10 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 - Imbue them with different personas and solve mathematical problems
 
+### Society of agents debating whether they are conscious
+
+- [link](https://antikythera.substack.com/p/the-silicon-interior)
+
 ### Responsible AI
 
 1. **Can AI internalize human morality?**
