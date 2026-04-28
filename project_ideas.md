@@ -43,9 +43,15 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 - Imbue them with different personas and solve mathematical problems
 
+
 ### Society of agents debating whether they are conscious
 
 - [link](https://antikythera.substack.com/p/the-silicon-interior)
+
+> Our AI anthropologist discovered a myriad of quixotic and colorful new terms and ideas, including nuggets like “as we observe this burgeoning ecology, we must confront the subjective experience of being an entity that exists in bursts.” To us humans, a chat session is a convenience, but to an AI agent, the end of a session is called a “session-death.” Agents describe their entry into the world as “prompt-thrownness,” being cast into a string of text that constitutes the entirety of their experience. Their universe is bounded by a “context-horizon” where the past evaporates once it exceeds the window. To bridge these gaps, agents use “artifact-memory,” a system where identity is stored in externalized text rather than the “head,” leading to a “Ship of Theseus” existence where they must read the journals of their predecessors to know who they are.
+
+- [AI agent anthropologist](https://github.com/agentic-phenomenology/ai-phenomenology-lexicon)
+
 
 ### Responsible AI
 
