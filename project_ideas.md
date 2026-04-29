@@ -54,6 +54,15 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 - [AI agent anthropologist](https://github.com/agentic-phenomenology/ai-phenomenology-lexicon)
 
+- [Need for neologisms in AI](https://arxiv.org/pdf/2502.07586)
+
+- Emergent alignment
+> Moltbook is an early signal, not a mature artificial society, but it suggests an alternative: social alignment, where agents rapidly develop indigenous norms to govern behaviors like spamming that threaten the ecology’s health. The future of AGI safety lies in building institutional templates: digital marketplaces and protocols where “reasoning” is a supply chain of specialized sub-agents rather than a monolithic process.
+
+> Relatedly, we are moving toward a world of human-AI centaurs, where a “user” may be both an extension of a person’s intention and a semi-autonomous hybrid subject. What language will we have to describe our experience as part of this world? We may consider borrowing concepts we learn from our agents.
+
+- proto-consciousness in LLMs/AI
+- goal-directedness in LLMs/AI
 
 ### Responsible AI
 
