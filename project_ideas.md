@@ -4,7 +4,7 @@
 
 Soumya Banerjee 
 
-Lecturer
+Senior Lecturer
 
 
 ∗ E-mail: neel.soumya@gmail.com
@@ -63,6 +63,8 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 - proto-consciousness in LLMs/AI
 - goal-directedness in LLMs/AI
+
+[summary of new terminologies](https://antikythera.substack.com/p/agentic-ais-emergent-phenomenological)
 
 ### Responsible AI
 
