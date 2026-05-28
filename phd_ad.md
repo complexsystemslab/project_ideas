@@ -38,7 +38,8 @@ If you are a creative thinker excited by the prospect of bridging the gap betwee
 Please email me directly with:
 
 1. Your **CV**
-2. A brief outline of **what you would like to work on** 3.  A short note on **why you have applied for a PhD**
+2. A brief outline of **what you would like to work on**
+3.  A short note on **why you have applied for a PhD**
 
 *For more technical background on our research direction, feel free to explore our group's [Project Ideas Repository](https://github.com/complexsystemslab/project_ideas/blob/main/project_ideas.md) and read our foundational preprint on [Neural Networks for Abstraction and Reasoning](https://arxiv.org/pdf/2402.03507).*
 
