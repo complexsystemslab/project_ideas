@@ -35,7 +35,7 @@ University of York is a **Russell Group, Top 10 UK university** located in one o
 
 If you are a creative thinker excited by the prospect of bridging the gap between deep learning and true abstract reasoning, please get in touch!
 
-Please email me directly with:
+Please email me directly (soumya.banerjee@york.ac.uk) with:
 
 1. Your **CV**
 2. A brief outline of **what you would like to work on**
