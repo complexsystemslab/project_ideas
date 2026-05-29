@@ -1,4 +1,4 @@
-# 🚀 Fully Funded PhD Studentship in AI – University of York
+# 🚀 Fully Funded PhD Studentship in AI – University of York, UK
 
 **Are you passionate about the future of Artificial Intelligence? Looking for the freedom to pursue groundbreaking ideas on broad generalization, reasoning, and safety?**
 
@@ -29,7 +29,7 @@ This project is built to lead to **major, high-impact publications**. As a stude
 
 ### 🏰 Where You’ll Be Based
 
-York University is a **Russell Group, Top 10 UK university** located in one of the most beautiful, vibrant, and historic medieval cities in England. You will get world-class academic resources combined with an incredible quality of life.
+University of York is a **Russell Group, Top 10 UK university** located in one of the most beautiful, vibrant, and historic medieval cities in England. You will get world-class academic resources combined with an incredible quality of life.
 
 ### 📩 How to Apply
 
