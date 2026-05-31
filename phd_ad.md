@@ -43,6 +43,8 @@ Please email me directly (soumya.banerjee@york.ac.uk) with:
 
 *For more technical background on our research direction, feel free to explore our group's [Project Ideas Repository](https://github.com/complexsystemslab/project_ideas/blob/main/project_ideas.md) and read our foundational preprint on [Neural Networks for Abstraction and Reasoning](https://arxiv.org/pdf/2402.03507).*
 
+* [Webpage](https://neelsoumya.github.io/)
+* [Publications](https://scholar.google.co.uk/citations?user=WQwMsyQAAAAJ&hl=en)
 ---
 
 *Feel free to share or retweet this opportunity with anyone in your network who fits the bill!*
