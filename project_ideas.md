@@ -9,7 +9,7 @@ Senior Lecturer
 
 ∗ E-mail: neel.soumya@gmail.com
 
-Office: FC01 (first floor) in the computer science department
+Office: CSE/035 (ground floor) in the computer science department
 
 
 I work in explainable AI (xAI) and unconventional approaches to AI. I work at the intersection of complex systems and xAI: I take inspiration from complex systems to suggest new approaches to AI, and use AI to analyze complex systems.
