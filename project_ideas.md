@@ -66,6 +66,13 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 
 [summary of new terminologies](https://antikythera.substack.com/p/agentic-ais-emergent-phenomenological)
 
+## Participatory co-creation with AI
+
+
+This project will investigate how humans can work with AI tools to solve hard problems in creativity, mathematics, puzzles, etc. This will involve human participants and field studies
+
+
+
 ### Responsible AI
 
 1. **Can AI internalize human morality?**
