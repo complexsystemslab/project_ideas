@@ -9,13 +9,16 @@ Senior Lecturer
 
 ∗ E-mail: neel.soumya@gmail.com
 
-Office: CSE/035 (ground floor) in the computer science department
 
 
 I work in explainable AI (xAI) and unconventional approaches to AI. I work at the intersection of complex systems and xAI: I take inspiration from complex systems to suggest new approaches to AI, and use AI to analyze complex systems.
 
 
 ## Projects 
+
+### Goal directedness in agents and multi-agent generative systems
+
+Can agents have goals in agentic systems and multi-agent generative systems? This project will quantify goals and link them to generalization.
 
 ### Foundation models for artificial life
 
