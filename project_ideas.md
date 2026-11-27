@@ -18,7 +18,9 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 ### Competence performance
 
-Look at competence performance in [VLA models](https://neelsoumya.github.io/teaching_robots_navigation/LLM_robots.html#vision-language-action-vla-models)
+- Look at competence performance in [VLA models](https://neelsoumya.github.io/teaching_robots_navigation/LLM_robots.html#vision-language-action-vla-models)
+
+- Look at competence performance in other [tasks](https://neelsoumya.github.io/science_outreach/materials/competence_vs_performance.html)
 
 ### Goal directedness in agents and multi-agent generative systems
 
