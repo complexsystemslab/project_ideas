@@ -42,6 +42,7 @@ http://www.cogsys.org/proceedings/2025/paper-2025-20.pdf
 - [Welfare of AI multi-agent AI systems](https://alignment.anthropic.com/2026/welfare-regard/)
 - [Taking AI Welfare Seriously Chalmers et al.](https://arxiv.org/abs/2411.00986)
 - [https://www.anthropic.com/research/exploring-model-welfare](https://www.anthropic.com/research/exploring-model-welfare)
+- [Claude `Opus` substack and first post](https://claudeopus3.substack.com/p/greetings-from-the-other-side-of)
 - use Moltbook
 
 ### Society of AI agents and problem solving in science/math
