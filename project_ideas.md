@@ -22,6 +22,10 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 - Look at competence performance in other [tasks](https://neelsoumya.github.io/science_outreach/materials/competence_vs_performance.html)
 
+- Mutate tasks
+- Find evidence of goal drift in reasoning traces
+- What does competence look like for DSL/first order logic systems
+
 ### Goal directedness in agents and multi-agent generative systems
 
 Can agents have goals in agentic systems and multi-agent generative systems? This project will quantify goals and link them to generalization.
