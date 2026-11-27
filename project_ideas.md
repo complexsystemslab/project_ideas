@@ -16,12 +16,15 @@ I work in explainable AI (xAI) and unconventional approaches to AI. I work at th
 
 ## Projects 
 
+### Competence performance
+
+Look at competence performance in [VLA models](https://neelsoumya.github.io/teaching_robots_navigation/LLM_robots.html#vision-language-action-vla-models)
+
 ### Goal directedness in agents and multi-agent generative systems
 
 Can agents have goals in agentic systems and multi-agent generative systems? This project will quantify goals and link them to generalization.
 
 ### Foundation models for artificial life
-
 
 Foundation models for artificial life.
 
